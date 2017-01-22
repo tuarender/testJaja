@@ -1,0 +1,69 @@
+福岡大学%21642
+九州大学%21619
+東和大学%21629
+久留米大学%21621
+福岡女子大学%21641
+中村学園大学%21630
+九州情報大学%21617
+産業医科大学%21623
+福岡教育大学%21633
+サイバー大学%21622
+第一薬科大学%21627
+九州工業大学%21613
+福岡経済大学%21634
+福岡国際大学%21637
+九州女子大学%21618
+福岡歯科大学%21638
+福岡県立大学%21635
+九州産業大学%21615
+九州歯科大学%21616
+九州共立大学%21612
+九州国際大学%21614
+西南学院大学%21624
+福岡工業大学%21636
+西南女学院大学%21625
+久留米工業大学%21620
+福岡女学院大学%21640
+西日本工業大学%21631
+北九州私立大学%21611
+筑紫女学園大学%21628
+保健医療経営大学%21643
+福岡医療福祉大学%21632
+聖マリア学院大学%21626
+福岡女学院看護大学%21639
+Chikushi Jogakuen University%21628
+College of Heathcare Management%21643
+Cyber University%21622
+Daiichi College of Pharmaceutical Sciences%21627
+Fukuoka Dental College%21638
+Fukuoka Institute of Technology%21636
+Fukuoka International University%21637
+Fukuoka Jo Gakuin College%21640
+Fukuoka Jogakuin Nursing College%21639
+Fukuoka Prefectural Univeersity%21635
+Fukuoka Social Medical Welfare University%21632
+Fukuoka University%21642
+Fukuoka University of Education%21633
+Fukuoka University, College of Economics%21634
+Fukuoka Women%21641
+Fukuoka Women's University%21641
+Kitakyushu University%21611
+Kurume Institute of Technology%21620
+Kurume University%21621
+Kyushu Dental College%21616
+Kyushu Institute of Information Science%21617
+Kyushu Institute of Technology%21613
+Kyushu International University%21614
+Kyushu Kyoritsu University%21612
+Kyushu Sangyo University%21615
+Kyushu University%21619
+Kyushu Women%21618
+Kyushu Women's University%21618
+Nakamura Gakuen University%21630
+Nishinippon Institute of technology%21631
+Seinan Gakuin University%21624
+Seinan Jo Gakuin University%21625
+St. Mary%21626
+St. Mary's College%21626
+Towa University%21629
+University of Occupational and Environmental Health%21623

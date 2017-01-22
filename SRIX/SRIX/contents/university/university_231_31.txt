@@ -1,0 +1,114 @@
+德鲁大学%10358
+莱德大学%10281
+肯恩大学%10365
+茅斯大学%10367
+罗恩大学%10282
+圣彼得学院%10283
+伯克利大学%10352
+海洋郡学院%10277
+尤宁郡学院%10349
+吉布斯学院%10326
+新泽西学院%10356
+费利西安学院%10363
+森坦那瑞大学%10355
+卡姆登郡学院%10294
+莫里斯郡学院%10322
+圣母姊妹学院%10289
+伯灵顿郡学院%10266
+考德威尔大学%10354
+坎伯兰郡学院%10296
+普林斯顿大学%10370
+西顿霍尔大学%10284
+美国犹太教学院%10306
+佐治亚考特学院%10364
+斯戴芬技术学院%10285
+德弗里技术学院%10270
+圣伊丽莎白学院%10357
+格洛斯特郡学院%10300
+塞勒姆社区学院%10345
+默瑟郡社区学院%10329
+卑尔根社区学院%10344
+新泽西市立大学%10369
+埃塞克斯郡学院%10325
+沃伦郡社区学院%10350
+大西洋角社区学院%10351
+新泽西塔木德学院%10348
+布卢姆菲尔德学院%10353
+哈得孙郡社区学院%10274
+哈德逊郡社区学院%10301
+新泽西州技术研究所%10303
+拉里坦瓦利社区学院%10280
+布鲁克代尔社区学院%10265
+萨塞克斯郡社区学院%10347
+萨默塞特基督教大学%10377
+帕塞伊克郡社区学院%10305
+米德尔塞克斯郡大学%10366
+蒙特克莱尔州立大学%10368
+新泽西州拉马波学院%10371
+托马斯爱迪生州立学院%10286
+新泽西州立大学纽瓦克（罗格斯）%10374
+新泽西州立大学卡姆登（罗格斯）%10373
+新泽西州威廉帕特森大学%10315
+新泽西州立大学新不伦瑞克（罗格斯）%10375
+新泽西州理查德斯托克顿学院%10372
+费尔利迪金森大学大都会校区%10362
+莱德大学威斯敏斯特合唱学院%10314
+费尔利迪金森大学弗洛厄姆学院%10359
+Assumption College for Sisters%10289
+Atlantic Cape Community College%10351
+Bergen Community College%10344
+Berkeley College%10352
+Beth Medrash Govoha%10318
+Bloomfield College%10353
+Brookdale Community College%10265
+Burlington County College%10266
+Caldwell College%10354
+Camden County College%10294
+Centenary College%10355
+College of Saint Elizabeth%10357
+County College of Morris%10322
+Cumberland County College%10296
+DeVry College of Technology%10270
+Drew University%10358
+Essex County College%10325
+Fairleigh Dickinson University, College at Florham%10359
+Fairleigh Dickinson University, Metropolitan Campus%10362
+Felician College%10363
+Georgian Court College%10364
+Gibbs College%10326
+Gloucester County College%10300
+Hudson County Chommunity College%10274
+Hudson County Community College%10301
+Kean University%10365
+Mercer County Community College%10329
+Middlesex County College%10366
+Monmouth University%10367
+Montclair State University%10368
+New Jersey City University%10369
+New Jersey Institute of Technology%10303
+Ocean County College%10277
+Passaic County Community College%10305
+Princeton University%10370
+Rabbinical College of America%10306
+Ramapo College of New Jersey%10371
+Raritan Valley Community College%10280
+Rider University%10281
+Rowan University%10282
+Rutgers, The State University of New Jersey, Camden%10373
+Rutgers, The State University of New Jersey, New Brunswick%10375
+Rutgers, The State University of New Jersey, Newark%10374
+Saint Peter%10283
+Saint Peter's College%10283
+Salem Community College%10345
+Seton Hall University%10284
+Somerset Christian College%10377
+Stavens Institute of Technology%10285
+Sussex County Community College%10347
+Talmudical Academy of New Jersey%10348
+The College of New Jersey%10356
+The Richard Stockton College of New Jersey%10372
+Thomas Edison State College%10286
+Union County College%10349
+Warren County Community College%10350
+Westminster Choir College of Rider University%10314
+William Paterson University of New Jersey%10315

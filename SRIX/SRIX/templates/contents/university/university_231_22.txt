@@ -1,0 +1,207 @@
+Roxbury Community College%6794
+American International College%6673
+Amherst College%6765
+Anna Maria College%6674
+Assumption College%6676
+Atlantic Union College%6809
+Babson College%6706
+Baptist Bible College East%6767
+Bay Path College%6707
+Bay State College%6678
+Becker College%6709
+Benjamin Franklin Institute of Technology%6651
+Bentley College%6652
+Berklee College of Music%6712
+Berkshire Community College%6811
+Boston Architectural Center%6654
+Boston College%6655
+Boston University%6656
+Brandeis University%6657
+Bridgewater State College%6658
+Bristol Community College%6770
+Bunker Hill Community College%6771
+Cambridge College%6688
+Cape Cod Community College%6815
+Clark University%6773
+College of the Holy Cross%6817
+Curry College%6689
+Dean College%6720
+Eastern Nazarene College%6721
+Elms College%6692
+Emerson College%6664
+Emmanuel College%6694
+Endicott College%6666
+Fisher College%6696
+Fitchburg State College%6697
+Framingham State College%6669
+Gordon College%6729
+Greenfield Community College%6818
+Hampshire College%6730
+Harvard Universitiy%6731
+Hebrew College%6776
+Hellenic College%6820
+Holyoke Community College%6778
+ITT Technical Institute%6780
+ITT技术研究所%6780
+Katharine Gibbs School%6823
+Laboure College%6782
+Lasell College%6732
+Lesley University%6733
+Marian Court College%6783
+Massachusetts Bay community College%6734
+Massachusetts College%6784
+Massachusetts College of Liberal Arts%6735
+Massachusetts College of Pharmacy and Health Scuences%6736
+Massachusetts Institute of Technology%6737
+Massachusetts Maritime Academy%6738
+Massachusoit Community College%6827
+Merrimack College%6739
+Middlesex Community College%6786
+Mointserrat College of Art%6740
+Mount Holyoke College%6741
+Mount Wachusett Community College%6743
+Mount lda College%6742
+New Englan College of Finance%6829
+New England Conservatory of Music%6788
+New England Institute of Art & Communications%6745
+Newbury College%6744
+Nichols College%6831
+North Shore Communiity College%6833
+Northeastern University%6746
+Northern Essex Community College%6832
+Pine Manor College%6747
+Quincy College%6834
+Quinsigamond Community College%6793
+Regis College%6748
+Roxbury Community College%6794
+Saint John%6795
+Saint John's Seminary College of Liberal Arts%6795
+Salem State College%6796
+School of the Museum of Fine Arts%6749
+Simmons College%6750
+Simon%6751
+Simon's Rock College of Bard%6751
+Smith College%6752
+Springfield College%6753
+Springfield Technical Community College%6839
+Stonehill College%6754
+Suffolk University%6840
+The Art Institute of Boston at Lesley University%6704
+The Boston Conservatory%6769
+Tufts University%6799
+University of Massachusetts Amherst%6755
+University of Massachusetts Bosron%6756
+University of Massachusetts Dartmouth%6757
+University of Massachusetts Lowell%6758
+University of Phoenix-Boston Campus%6800
+Urban College of Boston%6843
+Wellesley College%6759
+Wentworth Institute of Technology%6760
+Western New England College%6761
+Westfield State College%6802
+Wheaton College%6805
+Wheelock College%6763
+Williams College%6845
+Worcester Polytechnic Institute%6846
+Worcester State College%6807
+东北大学%6746
+东拿撒勒学院%6721
+伊曼纽尔学院%6694
+伍斯特州立学院%6807
+伍斯特理工学院%6846
+会德丰学院%6763
+伯克利音乐学院%6712
+伯克希尔社区学院%6811
+克拉克大学%6773
+凤凰城大学--波士顿分校%6800
+凯瑟琳吉布斯学校%6823
+剑桥学院%6688
+北岸社区学院%6833
+北艾塞克斯社区学院%6832
+史密斯学院%6752
+哈佛大学%6731
+圣十字学院%6817
+圣母学院%6676
+圣约翰人文神学院%6795
+埃尔姆斯学院%6692
+埃默森学院%6664
+塔夫茨大学%6799
+塞勒姆州立大学%6796
+大西洋联盟学院%6809
+威廉姆斯学院%6845
+安娜玛丽亚大学%6674
+尼科尔斯学院%6831
+州立海湾学院%6678
+巴布森学院%6706
+巴德西蒙丝罗克学院%6751
+布兰代斯大学%6657
+布里奇沃特州立学院%6658
+布里斯托尔社区学院%6770
+希伯来大学%6776
+希腊学院%6820
+库利学院%6689
+弗雷明汉州立大学%6669
+恩迪科特学院%6666
+惠顿学院%6805
+戈登学院%6729
+拉塞尔学院%6732
+拉布雷学院%6782
+斯普林菲尔德学院%6753
+斯普林菲尔德技术社区学院%6839
+斯通希尔大学%6754
+新恩戈兰财经学院%6829
+新英格兰艺术与交流学院%6745
+新英格兰音乐学院%6788
+昆西加蒙德社区学院%6793
+昆西学院%6834
+本杰明富兰克林技术研究所%6651
+本特利学院%6652
+格林菲尔德社区学院%6818
+梅里马克学院%6739
+沃楚西特山社区学院%6743
+波士顿城市学院%6843
+波士顿大学%6656
+波士顿学院%6655
+波士顿建筑中心%6654
+波士顿松堡学院%6747
+波士顿艺术学院%6769
+洛克斯波利社区学院%6794
+浸信会东部神学院%6767
+温特沃斯技术学院%6760
+玛丽安法学院%6783
+科德角社区学院%6815
+米德尔塞克斯社区学院%6786
+精美艺术博物馆学院%6749
+纽伯里学院%6744
+罕布什尔学院%6730
+美国国际学院%6673
+莱斯利大学%6733
+莱斯利大学波士顿艺术学院%6704
+菲奇堡州立学院%6697
+萨福克大学%6840
+蒙特伊达学院%6742
+蒙特赛瑞特艺术学院%6740
+蒙特霍利约克学院%6741
+西新英格兰学院%6761
+西蒙斯学院%6750
+贝伊帕特学院%6707
+贝克尔学院%6709
+费雪学院%6696
+迪恩学院%6720
+邦克山社区学院%6771
+阿默斯特学院%6765
+雷吉斯学院%6748
+霍利奥克社区学院%6778
+韦尔斯利学院%6759
+韦斯特菲尔德州立学院%6802
+马萨索伊特社区学院%6827
+马萨诸塞大学-波斯瑞校区%6756
+马萨诸塞大学-洛厄尔校区%6758
+马萨诸塞大学-达特茅斯校区%6757
+马萨诸塞大学-阿姆赫斯特校区%6755
+马萨诸塞州学院%6784
+马萨诸塞州海洋学院%6738
+马萨诸塞湾社区学院%6734
+麻省人文学院%6735
+麻省理工学院%6737
+麻省药剂业及健康科学学院%6736

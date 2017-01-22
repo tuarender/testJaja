@@ -1,0 +1,87 @@
+圣心大学%4611
+耶鲁大学%4626
+三一学院%4617
+吉布斯学院%4597
+圣约瑟学院%4612
+米切尔学院%4605
+古德温学院%4598
+卫斯理大学%4624
+纽黑文大学%4623
+三河社区学院%4616
+哈特福德大学%4622
+康涅狄格学院%4593
+布莱维德学院%4586
+康涅狄格大学%4621
+圣文森特学院%4613
+派尔艺术学院%4628
+莱姆美术学院%4602
+费尔菲尔德大学%4595
+布里奇波特大学%4620
+诺沃克社区学院%4608
+昆尼皮亚克大学%4610
+盖特威社区学院%4596
+开皮特社区学院%4590
+阿萨塔克社区学院%4588
+查特奥克州立大学%4592
+坦西克斯社区学院%4618
+曼彻斯特社区学院%4603
+哈特福德女子学院%4599
+艾伯特斯贤者学院%4587
+泰奇欧波斯特大学%4615
+国际酒店管理学院%4627
+东康涅狄格州立大学%4594
+圣使徒学院和神学院%4600
+诺格塔克谷社区学院%4606
+奎纳博格谷社区学院%4609
+中康涅狄格州立大学%4591
+美国海岸警卫队学院%4619
+胡萨托尼克社区学院%4601
+南康涅狄格州立大学%4614
+西康涅狄格州立大学%4625
+西北康涅狄格社区学院%4607
+米德尔塞克斯社区学院%4604
+康涅狄格贝丝本杰明学院%4589
+Albertus Magus College%4587
+Asnuntuck Community College%4588
+Beth Benjamin Academy of Connecticut%4589
+Briarwiid College%4586
+Capital Community College%4590
+Central Connecticut State University%4591
+Charter Oak State College%4592
+Connecticut College%4593
+Eastern Connecticut State University%4594
+Fairfield University%4595
+Geteway Community College%4596
+Gibbs College%4597
+Goodwin College%4598
+Hartford College For Women%4599
+Holy Apostles College and Seminary%4600
+Housatonic Community College%4601
+International College of Hospitality Management, &ITC esar Ritz&RO%4627
+Lyme Academy College of Fine Arts%4602
+Manchester Community College%4603
+Middlesex Community College%4604
+Mitchell College%4605
+Naugatuck Valley Community College%4606
+Northwestern Connecticut Community College%4607
+Norwalk Community College%4608
+Paier College of Art, Inc.%4628
+Quinebaug Valley Community College%4609
+Quinnipiac University%4610
+Sacred Heart University%4611
+Saint Joseph College%4612
+Southern Connecticut State University%4614
+St. Vincent%4613
+St. Vincent's College%4613
+Teikyo Post University%4615
+Three Rivers Community College%4616
+Trinity College%4617
+Tunxis Community College%4618
+United States Coast Guard Academy%4619
+Universitry of Bridgeport%4620
+University of Connecticut%4621
+University of Hartrford%4622
+University of New Haven%4623
+Wesleyan University%4624
+Western Connecticut State University%4625
+Yale University%4626

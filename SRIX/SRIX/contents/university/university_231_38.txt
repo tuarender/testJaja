@@ -1,0 +1,89 @@
+里德学院%8811
+太平洋大学%8809
+西浸会学院%8843
+俄勒冈大学%8813
+西方商学院%8844
+波特兰大学%8842
+凤凰城大学--俄勒冈校区%8841
+蓝山社区学院%8816
+康科迪亚大学%8804
+西北基督学院%8831
+威拉米特大学%8815
+罗格社区学院%8837
+西俄勒冈大学%8845
+东俄勒冈大学%8822
+凯斯凯德学院%8817
+宝谷社区学院%8839
+尤金圣经学院%8823
+雷恩社区学院%8825
+林菲尔德学院%8807
+南俄勒冈大学%8812
+波特兰州立大学%8836
+波特兰艺术学院%8803
+俄勒冈州立大学%8808
+俄勒冈技术学院%8834
+先锋太平洋学院%8810
+乔治福克斯大学%8805
+华纳太平洋学院%8814
+安普瓜社区学院%8840
+克拉索普社区学院%8821
+马里尔赫斯特大学%8827
+林恩本顿社区学院%8826
+西方州立整脊学院%8846
+切梅基塔社区学院%8819
+俄勒冈卫生科学大学%8833
+克拉克麦斯社区学院%8820
+刘易斯与克拉克学院%8806
+太平洋西北艺术学院%8835
+中俄勒冈州社区学院%8818
+西南俄勒冈社区学院%8838
+马尔特莫马圣经神学院%8830
+俄勒冈艺术与工艺学院%8832
+希尔德大学商业与技术学院%8847
+Blue Mountain Community College%8816
+Cascade College%8817
+Central Oregon Community College%8818
+Chemeketa Community College%8819
+Clakamas Community College%8820
+Clatsop Community College%8821
+Concordia University%8804
+Eastern Oregon University%8822
+Eugene Bible College%8823
+George Fox University%8805
+Heald College, Schools of Business and Technology%8847
+ITT Technical Institute%8824
+ITT技术研究所%8824
+Lane Community College%8825
+Lewis & Clark College%8806
+Linfield College%8807
+Linn-Benton Community College%8826
+MT胡德社区学院%8829
+Marylhurst University%8827
+Mount Angel Seminary%8828
+Mt. Hood Community College%8829
+Multnomah Bible College and Biblical Seminary%8830
+Northwest Christian College%8831
+Oregon College of Art & Craft%8832
+Oregon Health & Science Universiy%8833
+Oregon Institute of Technology%8834
+Oregon State University%8808
+Pacific Northwest College of Art%8835
+Pacific University%8809
+Pioneer Pacific College%8810
+Portland State University%8836
+Reed College%8811
+Rogue Community College%8837
+Southern Oregon University%8812
+Southwestern Oregon Community College%8838
+The Art Institute of Portland%8803
+Treasure Valley Community College%8839
+Umpqua Community College%8840
+University of Oregon%8813
+University of Phoenix-Oregon Campus%8841
+University of Portland%8842
+Warner Pacific College%8814
+Western Baptist College%8843
+Western Business College%8844
+Western Oregon University%8845
+Western State Chiropractic College%8846
+Willamette University%8815

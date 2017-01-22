@@ -1,0 +1,93 @@
+培根学院%10223
+塔尔萨大学%10221
+大都会学院%10231
+东中央大学%10227
+卡梅伦大学%10224
+兰斯顿大学%10230
+东北州立大学%10235
+默里州立学院%10233
+罗斯州立学院%10245
+南拿撒勒大学%10249
+斯巴达航空学校%10253
+塔尔萨社区学院%10254
+圣格雷戈里大学%10246
+康纳斯州立学院%10226
+奥克拉荷马大学%10256
+罗杰斯州立大学%10244
+西南基督教大学%10250
+美国中部圣经学院%10232
+北俄克拉荷马大学%10236
+塞米诺尔州立大学%10247
+雷德兰兹社区学院%10243
+卡尔艾伯特州立学院%10225
+奥日尔·罗伯兹大学%10242
+俄克拉荷马市立大学%10219
+中央俄克拉荷马大学%10255
+奥克拉荷马州立大学%10220
+奥克拉荷马浸会大学%10218
+奥克拉荷马州立大学（奥克马尔吉）%10263
+俄克拉荷马州立大学（俄克拉荷马城）%10262
+东奥克拉荷马州立学院%10228
+奥克拉荷马卫斯理大学%10241
+俄克拉荷马城社区学院%10239
+俄克拉荷马基督教大学%10238
+西奥克拉荷马州立学院%10261
+西南俄克拉荷马州立大学%10251
+西北俄克拉荷马州立大学%10237
+东南俄克拉荷马州立大学%10248
+美国基督教学院和神学院%10222
+西南俄克拉荷马州立大学（塞尔）%10252
+奥克拉荷马科学与艺术大学%10260
+霍夫凤凰城大学塔尔萨分校%10259
+希尔斯代尔自由意志浸会学院%10229
+凤凰城大学奥克拉荷马城校区%10258
+奥克拉荷马大学健康科学中心%10257
+奥克拉荷马潘汉德尔州立大学%10240
+东北俄克拉荷马州农业与机械学院%10234
+American Christian College and Seminary%10222
+Bacone College%10223
+Cameron University%10224
+Carl Albert State College%10225
+Connors State College%10226
+East Central University%10227
+Eastern Oklahoma State College%10228
+Hillsdale Free Will Baptist College%10229
+Langston University%10230
+Metropolitan College%10231
+Mid-America Bible College%10232
+Murray State College%10233
+Northeastern Oklahoma Agricultural and Mechanical College%10234
+Northeastern State University%10235
+Northern Oklahoma College%10236
+Northwestern Oklahoma State University%10237
+Oklahoma Baptist University%10218
+Oklahoma Christian University%10238
+Oklahoma City Community College%10239
+Oklahoma City University%10219
+Oklahoma Panhandle State University%10240
+Oklahoma State  University%10220
+Oklahoma State University, Oklahoma City%10262
+Oklahoma State University, Okmulgee%10263
+Oklahoma Wesleyan University%10241
+Oral Roberts University%10242
+Redlands Communitiy College%10243
+Rogers State University%10244
+Rose State College%10245
+Seminole State College%10247
+Southeastern Oklahoma State University%10248
+Southern Nazarene University%10249
+Southwestern Christian University%10250
+Southwestern Oklahoma State University%10251
+Southwestern Oklahoma State University at Sayre%10252
+Spartan School of Aeronautics%10253
+St. Gregory%10246
+St. Gregory's University%10246
+Tulsa Community College%10254
+University hof Phoenix-Tulsa Campus%10259
+University of Central Oklahoma%10255
+University of Oklahoma%10256
+University of Oklahoma Health Sciences Center%10257
+University of Phoenix-Oklahoma City Campus%10258
+University of Tulsa%10221
+Universityof Science and Arts of Oklahoma%10260
+Western Oklahoma State College%10261

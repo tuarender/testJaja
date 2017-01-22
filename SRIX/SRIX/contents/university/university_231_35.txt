@@ -1,0 +1,40 @@
+玛丽大学%8885
+三一神学院%8861
+龟山社区学院%8862
+谷市州立大学%8907
+詹姆斯敦学院%8872
+西廷比尔学院%8901
+湖区州立学院%8852
+迪金森州立大学%8848
+北达科他州大学%8865
+梅维尔州立大学%8895
+俾斯麦州立学院%8869
+迈诺特州立大学%8876
+威利斯顿州立大学%8908
+北达科他州立大学%8880
+联合部落技术学院%8863
+麦德森特万护理学院%8854
+贝特霍尔德堡社区学院%8892
+北达科他州立科学学院%8899
+卡可达斯卡斯卡纳社区学院%8891
+迈诺特州立大学波特诺校区%8898
+Bismarck State College%8869
+Cankdeska Cikana Community College%8891
+Dickinson State University%8848
+Fort Berthold Community College%8892
+Jamestown College%8872
+Lake Region State College%8852
+Mayville State University%8895
+Medcenter One College of Nursing%8854
+Minot State University%8876
+Minot State University-Bottineau Campus%8898
+North Dakota State College of Science%8899
+North Dakota State University%8880
+Sitting Bull College%8901
+Trinity Bible College%8861
+Turtle Mountain Community College%8862
+United Tribes Technical College%8863
+University of Mary%8885
+University of North Dakota%8865
+Valley City State University%8907
+Williston State College%8908

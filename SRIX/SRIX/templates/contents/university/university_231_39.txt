@@ -1,0 +1,414 @@
+ITT公司技术研究所%11761
+Academy of Medical Arts and Business%11718
+Albright College%11656
+Allegheny College%11609
+Allehtown Business School%11610
+Alvernis College%11611
+Antonelli Institute%11719
+Arcadia University%11612
+Baptist Bible College of Pennsylvania%11720
+Berean Institute%11721
+Berks Technical Institute%11722
+Bloomsburg University of Pennsylvania%11723
+Bradford School%11724
+Bradley Academy for the Visual Arts%11615
+Bryn Athyn College of the New Church%11725
+Bryn Mawr College%11616
+Bucknell University%11617
+Bucks County Community College%11726
+Business Institute of Pennsylvania%11727
+Butler County Communitiy College%11728
+CHi Institute%11732
+Cabrini College%11666
+California University of Pennsylvania%11619
+Cambria County Area Community College%11729
+Cambria-Rowe Business College%11730
+Carlow College%11668
+Carnegie Mellon Universitiy%11669
+Cedar Crest College%11670
+Central Pennsylvania College%11731
+Chatham College%11671
+Chestnut Hill College%11672
+Cheyney University of Pennsylvania%11673
+Churchman Business School%11733
+Clarion University of Pennsylvania%11620
+College Misericordia%11675
+Commonwealth Technical Institute%11734
+Community College of Allegheny County%11646
+Community College of Beaver County%11735
+Community College of Philadelphia%11736
+Consolidated School of Business%11737
+Dean Institute of Technology%11739
+Delaware County Community College%11740
+Delaware Valley College%11647
+Dequesne University%11772
+Desales University%11741
+Dickinson College%11742
+Douglas Education Center%11743
+Drexel University%11678
+DuBois Business College%11744
+Duff%11771
+Duff's Business Institute%11771
+East Stoudsburg University of Pennsylvania%11773
+Eastern Universitiy%11625
+Edinboro University of Pennsylvania%11680
+Education Direct%11774
+Electronic Institute%11775
+Elizabethtown College%11681
+Erie Business Center South%11750
+Erie Business Center, Main%10078
+Erie Institute of Technology%11751
+Franklin and Marshall College%11752
+Gannon University%11652
+Geneva College%11653
+Gettysburg College%11753
+Gratz College%11754
+Grove City College%11630
+Gwynedd-Mercy College%11655
+Harcum College%11554
+Harrisburg Area Community College%11755
+Haverford College%11555
+Holy Family College%11782
+Hussina School of Art%11757
+ICM School of Business & Medical Careers%11784
+ICM业务与医疗职业学校%11784
+ITT Technical Institute%11761
+Immaculata College%11582
+Indiana University of Pennsylvania%11583
+Informatiion Computer Systems Institute%11785
+International Academy of Design & Technology%11760
+Johnson College%11762
+Juniata College%11558
+Keystone College%11585
+King%11586
+King's College%11586
+Kutztown University of Pennsylvania%11587
+La Roche College%11563
+La Salle University%11766
+Lackawanna College%11789
+Lafayette College%11588
+Lancaster Bible College%11790
+Lansdale School of Business%11765
+Laurel Business Insitute%11767
+Laurel Business Institute%11793
+Lehigh Carbon Community College%11768
+Lehigh University%11564
+Lincoin Technical Institute%11795
+Lincoin University%11591
+Lock Haven University of Pennsylvania%11566
+Luzerne County Communitiy College%11797
+Lycoming College%11798
+MCP Hahnemann University%11568
+MCP哈尼曼大学%11568
+Manor College%11593
+Mansfield University of Pennsylvania%11594
+Marywood University%11595
+McCann School of Business%11799
+Median School of Allied Health Careers%11800
+Mercyhurst College%11801
+Messiah College%11569
+Millersville University of Pennsylvania%11598
+Montgomery County Community College%11802
+Moore College of Art and Design%11599
+Moravian College%11572
+Mount Aloysius College%11601
+Muhlenberg College%11574
+Neumann College%11575
+New Castle School of Trades%11803
+Newport Business Institute%11804
+Northampton County Area Community College%11805
+Northwest Pennsylvania Technical Institute%11806
+Oakbridge Academy of Arts%11807
+Orleans Technical Institute-Center City Campus%11808
+Pace Institute%11809
+Peirce College%11576
+Penn Commercial Business and Technical School%11810
+Pennco Tech%11811
+Pennsylvania College of Technology%11577
+Pennsylvania Institute of Technology%11812
+Pennsylvania School of Art & Design%11813
+Philadelphia Biblical University%11831
+Philadelphia University%11686
+Pittsburgh Institute of Aeronautics%11832
+Pittsburgh Institute of Mortuary Science, Incorporated%10079
+Pittsburgh Technical Institute%11833
+Point Park College%11687
+Reading Area Community College%11834
+Robert Morris University%11689
+Rosemont College%11690
+Saint Francis University%11691
+Saint Joseph%11692
+Saint Joseph's University%11692
+Saint Vincent College%11693
+Schuylkill Institute of Business and Technology%11835
+Seton Hill University%11694
+Shippensburg University of Pennsylvania%11695
+Slippery Rock University of Pennsylvania%11696
+South Hills School of Business & Technology%11836
+St. Charles Borromeo Seminary, Overbrook%10080
+Susquehanna University%11697
+Swarthmore College%11698
+Talmudical Yeshiva of Philadelphia%11837
+Temple University%11699
+Thaddeus Stevens College of Technology%11838
+The Art Institute of Philadelphia%11637
+The Art Institute of Pittsburgh%11638
+The Curtis Institute of Music%11738
+The Pennsylvania State University Abington College%11606
+The Pennsylvania State University Altoona College%11607
+The Pennsylvania State University Beaver Campus of the Commonwealth College%11814
+The Pennsylvania State University Berks Campus of the Berks-Lehigh Valley College%11815
+The Pennsylvania State University DeBois Campus of the Commonwealth College%11817
+The Pennsylvania State University Delaware Chounty Campus of the Commonwealth College%11816
+The Pennsylvania State University Fayette Campus of the Commonwealth College%11818
+The Pennsylvania State University Harrisburg Campus of the Capital College%11819
+The Pennsylvania State University Hazleton Campus of the Commonwealth College%11820
+The Pennsylvania State University Lehigh Valley Campus of the Berks-Lehigh Valley College%11821
+The Pennsylvania State University McKeesport Campus of the Commonwealth College%11822
+The Pennsylvania State University New Kensington Campus of the Commonwealth College%11824
+The Pennsylvania State University Schuylkill Campus of the Capital College%11825
+The Pennsylvania State University University Park Campus%11827
+The Pennsylvania State University Wilkes-Barre Campus of the Commonwealth College%11828
+The Pennsylvania State University Worthington Scranton Campus of the Commonwealth College%11829
+The Pennsylvania State University York Campus of the Commonwealth College%11830
+The Pennsylvania State University at Erie, The Behrend College%10077
+The Pennsylvania State university Shenango Campus of the Commonwealth College%11826
+The Pennsylvania state University Mont Alto Campus of the Commonwealth College%11823
+The Restaurant School%11688
+The Universitiy of Scranton%11705
+The University of the Arts%11706
+The Williamson Free School of Mechanical Trades%11849
+Thiel College%11700
+Thomas Jefferson University%11701
+Thompson Institute%11839
+Tri-State Business Institute%11840
+Triangle Tech, Inc.%10081
+Triangle Tech, Inc.-DuBois School%10082
+Triangle Tech, Inc.-Erie School%10083
+Triangle Tech, Inc.-Greensburg Center%10084
+University of Pennsylvania%11841
+University of Phoenix-Philadelphia Campus%11842
+University of Phoenix-Pittsburgh Campus%11843
+University of Pittsburgh%11702
+University of Pittsburgh at Bradford%11703
+University of Pittsburgh at Greensburg%11704
+University of Pittsburgh at Johnstown%11844
+University of Pittsburgh at Titusville%11845
+University of the Sciences in Philadelphia%11707
+Ursinus College%11708
+Valley Forge Christian College%11846
+Valley Forge Military College%11709
+Villanova University%11710
+Washington & Jefferson College%11711
+Waynesburg College%11712
+West Chester University of Pennsylvania%11713
+Western School of Health and Business Careers%11847
+Westminster College%11714
+Westmoreland County Community College%11848
+Widener University%11715
+Wilkes University%11716
+Wilson College%11717
+Yeshiva Beth Moshe%11850
+York College of Pennsylvania%11851
+York Technical Institute%11852
+Yorktowne Business Institute%11853
+三州商学院%11840
+三角科技有限公司%10081
+三角科技有限公司--伊利学校%10083
+三角科技有限公司--杜波依斯学校%10082
+三角科技有限公司--格林斯堡中心%10084
+东方大学%11625
+中央宾夕法尼亚大学%11731
+伊丽莎白镇学院%11681
+伊利商务中心%10078
+伊利技术学院%11751
+伊曼卡拉塔学院%11582
+伯克斯技术学院%11722
+佩恩商业和技术学院%11810
+佩斯研究所%11809
+信息计算机系统研究所%11785
+兰卡斯特圣经学院%11790
+凤凰城大学-匹兹堡校园%11843
+凤凰城大学-费城校园%11842
+切斯纳特希尔大学%11672
+利哈伊大学%11564
+利哈伊柯本社区学院%11768
+加州大学（宾夕法尼亚）%11619
+劳雷尔商业学院%11793
+劳雷尔商业研究所%11767
+北安普顿郡社区学院%11805
+匹兹堡大学%11702
+匹兹堡大学(泰特斯维尔)%11845
+匹兹堡大学(约翰斯敦)%11844
+匹兹堡大学（布拉德福德）%11703
+匹兹堡大学（格林斯堡）%11704
+匹兹堡技术学院%11833
+匹兹堡科学殡葬研究院%10079
+匹兹堡航空学院%11832
+医学艺术与商业学院%11718
+华盛顿与杰斐逊学院%11711
+南伊利商务中心%11750
+南希尔斯科技商学院%11836
+卡内基梅隆大学%11669
+卡布里尼大学%11666
+卡洛学院%11668
+卢泽恩社区学院%11797
+哈库姆学院%11554
+哈弗福德学院%11555
+哈斯那艺术学校%11757
+哈里斯堡社区学院%11755
+国王学院%11586
+国际设计与科技学院%11760
+圣家学院%11782
+圣弗朗西斯大学%11691
+圣文森特大学%11693
+圣约瑟夫大学%11692
+坎布罗商学院%11730
+坎布里亚区社区学院%11729
+坦普尔大学%11699
+基斯学院%11585
+奥克布里奇艺术学院%11807
+奥尔布赖特学院%11656
+奥尔良技术研究所（中心城校区）%11808
+威尔克斯大学%11716
+威尔逊学院%11717
+威廉姆森自由机械学校%11849
+威斯敏斯特大学%11714
+威斯特摩兰社区学院%11848
+安东利研究所%11719
+宾夕法尼亚且尼大学%11673
+宾夕法尼亚东斯度斯伯格大学%11773
+宾夕法尼亚克拉里昂大学%11620
+宾夕法尼亚商学院%11727
+宾夕法尼亚埃丁伯勒大学%11680
+宾夕法尼亚大学%11841
+宾夕法尼亚州立大学伯克斯-利哈伊谷学院(伯克斯校区）%11815
+宾夕法尼亚州立大学伯克斯-利哈伊谷学院（利哈伊谷校区）%11821
+宾夕法尼亚州立大学奥尔托纳学院%11607
+宾夕法尼亚州立大学比伦德学院（伊利）%10077
+宾夕法尼亚州立大学联邦学院约克分校区%11830
+宾夕法尼亚州立大学英联邦学院（威尔克斯巴里校区）%11828
+宾夕法尼亚州立大学英联邦学院（希南戈校区）%11826
+宾夕法尼亚州立大学英联邦学院（德博英校区）%11817
+宾夕法尼亚州立大学英联邦学院（新肯辛顿校区）%11824
+宾夕法尼亚州立大学英联邦学院（比弗校区）%11814
+宾夕法尼亚州立大学英联邦学院（沃辛顿斯克兰顿校区）%11829
+宾夕法尼亚州立大学英联邦学院（特拉华堪提校区）%11816
+宾夕法尼亚州立大学英联邦学院（蒙特阿尔托校区）%11823
+宾夕法尼亚州立大学英联邦学院（费耶特校区）%11818
+宾夕法尼亚州立大学英联邦学院（麦基斯波特校区）%11822
+宾夕法尼亚州立大学英联邦学院（黑泽尔顿校区）%11820
+宾夕法尼亚州立大学阿宾顿学院%11606
+宾夕法尼亚州立大学首府学院（舒伊尔基尔校区）%11825
+宾夕法尼亚州立大学首都首府学院（哈里斯堡校区）%11819
+宾夕法尼亚州立大学（公园校区）%11827
+宾夕法尼亚州艺术与设计学院%11813
+宾夕法尼亚库茨敦大学%11587
+宾夕法尼亚技术学院%11577
+宾夕法尼亚技术学院%11812
+宾夕法尼亚斯利珀里罗克大学%11696
+宾夕法尼亚曼斯费尔德大学%11594
+宾夕法尼亚浸信会神学院%11720
+宾夕法尼亚米勒斯维尔大学%11598
+宾州布鲁斯堡大学%11723
+宾州洛克黑文大学%11566
+宾州约克学院%11851
+富兰克林和马歇尔学院%11752
+巴克内尔大学%11617
+巴克斯社区大学%11726
+巴特勒社区学院%11728
+布拉德利视觉艺术学院%11615
+布拉德福德学校%11724
+布林莫尔学院%11616
+弥赛亚学院%11569
+德拉瓦社区学院%11740
+德萨莱斯大学%11741
+德雷克塞尔大学%11678
+怀德纳大学%11715
+托马斯杰斐逊大学%11701
+拉克万纳学院%11789
+拉斐特学院%11588
+拉罗什学院%11563
+拉萨尔大学%11766
+提尔学院%11700
+摩拉维亚学院%11572
+撒迪厄斯史蒂文斯科技学院%11838
+斯克兰顿大学%11705
+斯沃斯莫尔学院%11698
+斯贝格宾夕法尼亚大学%11695
+新教会布林阿思恩学院%11725
+日内瓦大学%11653
+智学院%11732
+朱尼塔学院%11558
+杜克因大学%11772
+杜波依斯商学院%11744
+林科恩大学%11591
+林科恩技术学院%11795
+查塔姆大学%11671
+柯蒂斯音乐学院%11738
+格威内思-梅西大学%11655
+格拉茨大学%11754
+格罗夫市立学院%11630
+梅西赫斯特学院%11801
+正中联合卫生职业学校%11800
+比弗社区学院%11735
+汤普森研究所%11839
+波因帕克大学%11687
+潘科技术学校%11811
+牧师工商管理学院%11733
+特拉华谷学院%11647
+玛丽伍德大学%11595
+瓦利福奇军校%11709
+瓦利福奇基督学院%11846
+甘农大学%11652
+电子研究所%11775
+皮尔斯学院%11576
+科技学院院长%11739
+穆伦堡学院%11574
+穆尔艺术与设计学院%11599
+米泽瑞科迪亚学院%11675
+约克敦商学院%11853
+约翰逊学院%11762
+约翰逊学院%11765
+纽卡斯尔贸易学院%11803
+纽曼学院%11575
+纽波特商学院%11804
+纽约技术学院%11852
+维拉诺瓦大学%11710
+综合商学院%11737
+罗伯特莫里斯大学%11689
+罗斯蒙特学院%11690
+美国匹兹堡艺术学院%11638
+美国宾州印第安纳大学%11583
+联邦技术研究所%11734
+舒伊尔基尔商业及科技研究所%11835
+艺术大学%11706
+艾丽镇商学院%11610
+艾尔沃尼斯学院%11611
+芒修斯学院%11601
+莱卡明学院%11798
+萨斯奎汉纳大学%11697
+葛底斯堡学院%11753
+蒙哥马利社区大学%11802
+西北宾夕法尼亚技术学院%11806
+西宾夕法尼亚州切斯特大学%11713
+西顿希尔大学%11694
+贝里恩研究所%11721
+费城圣经大学%11831
+费城大学%11686
+费城社区学院%11736
+费城科学大学%11707
+费城艺术学院%11637
+辛斯大学%11708
+达夫商学院%11771
+迪金森学院%11742
+道格拉斯教育中心%11743
+锡达克雷斯特学院%11670
+阅读区社区学院%11834
+阿勒格尼学院%11609
+阿勒格尼社区学院%11646
+阿卡迪亚大学%11612
+韦恩斯堡学院%11712
+餐厅学院%11688
+马诺学院%11593
+麦肯商学院%11799

@@ -1,0 +1,217 @@
+Academy College%8560
+Alexandria Technical College%7181
+Anoka-Hennepin Technical College%7182
+Anoka-Ramsey Community College%8480
+Anoka-Ramsey Community College,Cambridge Campus%7272
+Argosy University-Twin Cities%8713
+Augsburg College%8648
+Bemidii State University%8483
+Bemidji State University%8732
+Bethany Lutheran College%8733
+Bethel College%8631
+Brown College%7188
+Capella University%8486
+Carleton College%8466
+Central Lakes College%8736
+Central lakes College%7190
+Century Communitiy and Technical College%7163
+Century Community and Technical College%8737
+College of ST. Catherine-Minneapolis%7144
+College of Sain Benedict%7170
+College of Saint Benedict%8550
+College of St. Catherine%7164
+College of St. Catherine-Minneapolis%8717
+College of Visual Arts%8656
+Concordia College%7173
+Concordia University%8657
+Concordua University%7194
+Crown College%8720
+Dakota County Technical College%8575
+Dulusth Business University%8493
+Duluth Business University%8659
+Dunwoody College of Technical%8577
+Dunwoody College of Technology%7221
+Fergus Falls Community College%8578
+Fond du Lac Tribal and Community College%8579
+Globe College%7200
+Gustavus Adolphus College%8472
+Hamline University%7201
+Hennepin Technical College%8582
+Herzing College, Minneapolis Drafting School Campus%7273
+Hibbing Community College%7227
+Inver Hills Community College%8501
+Itasca Community College%8751
+Lake Superior College%8753
+Lakeland Medical-Dental Academy%8669
+Macalester College%7204
+Martin Luther College%8755
+Mayo School of Health Sciences%8673
+Mesabi Range Community and Technical College%8508
+Metropolitan State University%8675
+Minneapolis Business College%7237
+Minneapolis College of Art and Design%8473
+Minneapolis Community and Technical College%7210
+Minnesaota West Community and Technical College%7215
+Minnesota Bible College%7239
+Minnesota School of Business%8596
+Minnesota State College-Southeast Technical%7241
+Minnesota State University Moorhead%8764
+Minnesota State University, Mankato%7274
+Minnesota West Community and Technical College%8516
+Music Tech%8766
+NEI College of Technology%7246
+NEI 科技学院%7246
+NEI理工大学%8685
+NEl College of Technology%8685
+National American University-St. Paul Campus%7217
+Normandale Community College%7247
+North Central University%8521
+North Hennepin Community College%7249
+North Hennepin Communsity College%8522
+Northland Community and Technical College%7250
+Northwest Technical College%7252
+Northwest Technical Institute%8775
+Northwestern College%7251
+Oak Hills Christian College%7254
+Pillsbury Baprist Bible College%7255
+Pillsbusy Baptist Bible College%8777
+Pine Technical College%7256
+Rainy River Community College%7257
+Rasmussem College St. Cloud%7260
+Rasmussen College Eagan%7258
+Rasmussen College Mankato%8781
+Rasmussen College Minnetonka%8533
+Rasmussen College St. Cloud%8700
+Ridgewater College%8701
+Riverland Community College%7262
+Rochester Community and Technical College%7263
+Saint John%7150
+Saint John's University%7150
+Saint Mary%7151
+Saint Mary%8558
+Saint Mary's University of Crookston%7151
+Saint Mary's University of Minnesota%8558
+South Central Technical College%7268
+Southwest State University%8792
+St Olaf College%8789
+St. Cloud State University%7264
+St. Cloud Technical College%8705
+St. Clous Technical College%7265
+St. Olaf College%7266
+St. Paul Technical College%7267
+The Art Institute Internatioinal Minnesota%8647
+The Art Institutes International Minnesota%7184
+The College of St. Scholastica%7172
+University of Minnesota, Crookston%8795
+University of Minnesota, Duluth%8800
+University of Minnesota, Morris%8801
+University of Minnesota, Twin Cities Campus%7277
+University of Minnessota, Duluth%7275
+University of St. Thomas%7152
+Vermilion Community College%7270
+Winona State University%8794
+世纪社会和技术学院%8737
+世纪社区技术学院%7163
+中南科技学院%7268
+中央湖区学院%7190
+中央湖区学院%8736
+丰迪拉克部落与社区学院%8579
+亚历山大技术学院%7181
+亨内平技术学院%8582
+伯特利大学%8631
+伯米吉州立大学%8732
+克鲁克斯顿圣玛丽大学%7151
+北亨内平社区学院%7249
+北亨内平社区学院%8522
+北部中央大学%8521
+卡佩拉大学%8486
+卡尔顿学院%8466
+古斯塔夫阿道夫学院%8472
+哈姆兰大学%7201
+因弗山社区学院%8501
+圣保罗技术学院%7267
+圣克劳德州立大学%7264
+圣克劳德技术学院%8705
+圣克劳德拉斯穆森大学%8700
+圣克劳斯技术学院%7265
+圣凯瑟琳学院%7164
+圣凯瑟琳学院-明尼阿波利斯校区%7144
+圣凯瑟琳学院明尼阿波利斯校区%8717
+圣奥拉夫大学%7266
+圣奥拉夫学院%8789
+圣托马斯大学%7152
+圣斯格拉斯卡学院%7172
+圣约翰大学%7150
+圣贝尼迪克特学院%8550
+大都会州立大学%8675
+奥克希尔斯基督学院%7254
+奥格斯堡大学%8648
+威诺纳州立大学%8794
+学术学院%8560
+安诺卡- 亨内平技术学院%7182
+安诺卡-拉姆社区学院%8480
+安诺卡-拉姆齐社区学院（剑桥校区）%7272
+布朗学院%7188
+希宾社区学院%7227
+康科迪亚大学%8657
+康科迪亚学院%7173
+弗格斯福尔斯社区学院%8578
+弗米利恩社区学院%7270
+德卢斯工商大学%8659
+德卢茨工商大学%8493
+拉斯穆森学院伊根校区%7258
+拉斯穆森学院圣克劳德校区%7260
+明尼唐卡拉斯穆森学院%8533
+明尼苏达商学院%8596
+明尼苏达圣玛丽大学%8558
+明尼苏达圣经学院%7239
+明尼苏达大学克鲁克斯顿校区%8795
+明尼苏达大学双城校区%7277
+明尼苏达大学德卢斯校区%8800
+明尼苏达大学莫里斯校区%8801
+明尼苏达大学（德卢斯校区）%7275
+明尼苏达州国际艺术学院%7184
+明尼苏达州国际艺术学院%8647
+明尼苏达州立大学（曼凯托校区）%7274
+明尼苏达州立学院-东南技术学校%7241
+明尼苏达州西部社区和技术学院%8516
+明尼苏达西部社区与技术学院%7215
+明尼阿波利斯商学院%7237
+明尼阿波利斯社区技术学院%7210
+明尼阿波利斯艺术与设计学院%8473
+曼凯托拉斯穆森大学%8781
+梅奥健康科学学院%8673
+梅萨比地区社区与技术学院%8508
+派恩技术学院%7256
+环球学院%7200
+白米蒂州立大学%8483
+皇冠学院%8720
+皮尔斯伯里浸会神学院%7255
+穆尔黑德明尼苏达州立大学%8764
+罗切斯特社区技术学院%7263
+美国国民大学-圣保罗校区%7217
+肯可多大学%7194
+艾塔斯加社区学院%8751
+苏必利尔湖学院%8753
+莱克兰医用牙科学院%8669
+菲尔斯比兹浸会神学院%8777
+西北学院%7251
+西北工业学院%8775
+西北技术学院%7252
+西南州立大学%8792
+视觉艺术学院%8656
+诺曼社区学院%7247
+诺特兰社区及技术学院%7250
+贝瑟尼路德学院%8733
+赛因本笃学院%7170
+赫齐宁学院（明尼阿波利斯校区）%7273
+达科他郡技术学院%8575
+邓伍迪技术学院%7221
+邓伍迪技术学院%8577
+里奇沃特大学%8701
+里弗兰社区学院%7262
+阿戈大学双城校区%8713
+雷尼河社区学院%7257
+音乐技术学院%8766
+马丁路德学院%8755
+麦卡莱斯特学院%7204

@@ -1,0 +1,48 @@
+Bennington College%6937
+Burlington College%6932
+Castleton State College%6938
+Champlain College%6919
+College of St. Joesph%6954
+Community College of Vermont%6955
+Goddard College%6920
+Green Mountain College%6935
+Johnson State College%6941
+Landmark College%6942
+Lyndn State College%6923
+Marlboro College%6944
+Marvboro College%6924
+Middlebury College%6945
+New England Culinary Institute%6946
+Norwich University%6927
+Saint Michael%6948
+Saint Michael's College%6948
+Saint Muchael%6928
+Saint Muchael's College%6928
+Southern Vermont College%6949
+Sterling College%6950
+University of Vermont%6951
+Vermont Technical College%6931
+Woodbury College%6957
+万宝路学院%6944
+伍德伯里学院%6957
+伯灵顿大学%6932
+佛蒙特大学%6951
+佛蒙特技术学院%6931
+佛蒙特社区学院%6955
+兰德马克学院%6942
+南佛蒙特学院%6949
+卡斯卡顿州立学院%6938
+圣乔斯夫学院%6954
+圣米迦勒学院%6928
+圣迈克尔学院%6948
+尚普兰学院%6919
+戈达德学院%6920
+斯特灵学院%6950
+新英格兰烹饪学院%6946
+本宁顿学院%6937
+林登州立大学%6923
+玛伯路学院%6924
+米德尔伯里学院%6945
+约翰逊州立学院%6941
+绿山学院%6935
+诺威治大学%6927

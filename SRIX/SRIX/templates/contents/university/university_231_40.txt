@@ -1,0 +1,22 @@
+Brown University%6906
+Bryant College%6907
+Community College of Rhode Island%6913
+Johnson & Wales University%6908
+New England Institute of Technology%6914
+Providence College%6909
+Rhode Island College%6915
+Rhode Island School of Design%6916
+Roger Willians University%6910
+Salve Regina University%6911
+University of Rhode Island%6912
+布朗大学%6906
+布莱恩特大学%6907
+新英格兰技术研究所%6914
+沙尔夫里贾纳大学%6911
+约翰森威尔士大学%6908
+罗得岛社区学院%6913
+罗德岛大学%6912
+罗德岛学院%6915
+罗德岛设计学院%6916
+罗杰威利昂大学%6910
+静宜学院%6909

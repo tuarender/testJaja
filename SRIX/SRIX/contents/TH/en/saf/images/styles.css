@@ -1,0 +1,54 @@
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; top-margin: 15px
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Tahoma
+}
+TABLE.form {
+	FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #cccccc
+}
+TD.line {
+	BACKGROUND-COLOR: #cccccc
+}
+TD.header {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #eeeeee
+}
+INPUT {
+	FONT-SIZE: 10pt; FONT-FAMILY: Tahoma
+}
+.require {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-FAMILY: Tahoma
+}
+.error {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ff0000; FONT-FAMILY: Tahoma
+}
+A {
+	FONT-SIZE: 10pt; COLOR: #0000ff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}
+A.bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0000ff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.bold:hover {
+	FONT-WEIGHT: bold; COLOR: #ff6600; TEXT-DECORATION: underline
+}
+.menu_selected {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ff0000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.menu_unselected {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0000ff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.submenu_selected {
+	FONT-SIZE: 10pt; COLOR: #ff0000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.submenu_unselected {
+	FONT-SIZE: 10pt; COLOR: #0000ff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.button {
+	WIDTH: 85px
+}
+.button_long {
+	WIDTH: 100px
+}

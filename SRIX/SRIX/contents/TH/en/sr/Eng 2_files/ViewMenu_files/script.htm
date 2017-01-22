@@ -1,0 +1,110 @@
+function popup(url,w,h)
+{
+	var top=(this.screen.height-h)/2;
+	var left=(this.screen.width-w)/2;
+	window.open(url,"","toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width="+w+",height="+h+",left="+left+",top="+top);
+}
+
+function refreshOpenerAndClose(time)
+{
+	window.opener.location.reload();
+	window.setTimeout('self.close()',time);
+}
+
+function refreshOpener(time)
+{
+	window.opener.location.reload();
+}
+
+function confirmDelete(url)
+{
+	var ok=confirm('Do you want to delete?');
+	if(ok===true)
+	{
+		this.location.href=url;
+	}
+}
+
+function gotoLink(url)
+{
+	this.location.href=url;
+}
+
+function doBlink() 
+{
+	var blink = document.all.tags("BLINK");
+	for (var i=0; i<blink.length; i++)
+	{
+		blink[i].style.visibility = blink[i].style.visibility === "" ? "hidden" : "" ;
+	}
+	
+}
+
+function startBlink() 
+{
+	if (document.all)
+	{
+		setInterval("doBlink()",500);
+	}
+}
+
+function checkAll(field)
+{
+	for (var i = 0; i < field.length; i=i+1)
+	{
+		field[i].checked = true ;
+	}
+}
+
+function uncheckAll(field)
+{
+	for (var i = 0; i < field.length; i=i+1)
+	{
+		field[i].checked = false ;
+	}
+}
+
+function isEmail(email) 
+{ 
+	var pattern1 =".+@.+\\.[a-z]+";
+	var pattern2 =".+@.+\\.[A-Z]+";
+	return email.match(pattern1)||(email.match(pattern2)); 
+} 
+
+function trim(str) 
+{
+	var result = str.replace(/^\s+/, '');
+	return result.replace(/\s+$/, '');
+}
+
+function strlen(str)
+{
+	return str.length;
+}
+
+
+function setIndexByValue(obj, value)
+{
+	var idx=0;
+	for(var i = 0; i < obj.length; i=i+1)
+	{
+		if(obj.options[i].value == value)
+		{
+			idx = i;
+		}
+	}
+	obj.selectedIndex=idx;
+}
+
+function countChecked(obj)
+{
+	var cnt=0;
+	for(var i = 0; i < obj.length; i=i+1)
+	{
+		if(obj[i].checked)
+		{
+			cnt=cnt+1;
+		}
+	}
+	return cnt;
+}

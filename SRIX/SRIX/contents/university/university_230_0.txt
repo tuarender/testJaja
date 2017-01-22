@@ -1,0 +1,234 @@
+University of Glamorgan University of Glasgow%2044
+Anglia Polytechnic University%2003
+Aston University%2005
+Bath Spa University College%2146
+Bell College of Technology%2185
+Birkbeck%2062
+Bishop Grosseteste College%2147
+Bolton Institute of Higher Education%2148
+Bournemouth University%2008
+British Institute In Paris%2079
+Brunel University%2013
+Buckinghamshire Chilterns University College%2149
+Canterbury Christ Church University College%2150
+Carmarthenshire College%2178
+Centre For Defence Studies%2080
+Cheltenham and Gloucester College of Higher%2152
+Chester College of Higher Education%2153
+City University%2021
+Co-operative College%2209
+Coleg Harlech/wea%2208
+Coleg Llandrillo%2179
+Colleges and Halls%2017
+Collingwood%2028
+Community Learning Scotland%2200
+Courtauld Institute of Art%2081
+Coventry University%2022
+Cranfield University%2023
+Dartington College of Arts%2154
+De montfort University%2024
+Dumgries and Galloway College%2186
+Edge Hill College of Higher Education%2155
+Falmouth College of Arts%2156
+Fife College of Further and Higher Education%2187
+Fircroft College%2210
+Glagow School of Art%2188
+Glasgow Caledonian University%2045
+Goldsmiths College%2063
+Gradeate Society%2029
+Grey%2030
+Harper Adams University College%2157
+Hatfield%2031
+Heriot-Watt University%2047
+Heythrop College%2064
+Hillcroft College%2211
+Homerton College%2158
+Imperial%2065
+Institute of Advanced Legal Studies%2084
+Institute of Cancer Research%2082
+Institute of Classical Studies%2085
+Institute of Commonwealth Studies%2086
+Institute of Education%2066
+Institute of English Studies%2087
+Institute of Germanic Studies%2088
+Institute of Historical Research%2089
+Institute of Latin American Studies%2090
+Institute of Romance Studies%2091
+Institute of United States Studies%2092
+Inverness College%2189
+Keele University%2051
+Kent Institute of Art and Design%2159
+King%2225
+King%2067
+King Alfred%2160
+King Alfred's College%2160
+King's College London%2067
+King's College School of Medicine and Dentistry%2225
+Kingston University%2053
+Leeds Metropolitan University%2056
+Lews Castle College%2190
+Liverpool Hope%2161
+Liverpool John Moores University%2060
+London Business School%2068
+London Guildhall University%2083
+London School of Economics and Political%2069
+London School of Hygieneand Tropical Medicine%2070
+Long-Term Residential Colleges For Adult Education%2207
+Loughborough University%2094
+Lucy Cavendish College%2018
+Manchester Metropolitan University%2098
+Middlesex University%2099
+Moray College%2191
+Napier University%2100
+Natiional Institute of Adult Continuing%2201
+Newbattle Abbey College%2212
+Newman College of Higher Education%2163
+Niace Dysgu Cymru%2202
+North East Wales Institute of Higher Education%2180
+North Island College%2193
+Northern College%2192
+Northern Ireland%2199
+Nottingham Trent University%2105
+Open University%2106
+Orkney College%2194
+Oxford Brookes University%2110
+Oxford Colleges and Halls%2109
+Plater College%2214
+Queen%2114
+Queen Margaret University College%2195
+Queen Mary%2071
+Queen's University of Belfast%2114
+RCN Institute%2165
+Robert Gordon University%2116
+Rose Bruford College%2166
+Royal Academy of Music%2072
+Royal Agricultural College%2167
+Royal College of Art%2117
+Royal College of Music%2118
+Royal Holloway%2073
+Royal Northern College of Music%2168
+Royal Scottish Academy of Music and Drama%2196
+Royal Veterinary College%2074
+Ruskin College%2215
+SAC(Scottish Agricultural College)%2198
+SAbhal Mor Ostaig%2197
+Schhool of Pharmacy%2076
+School of Oriental and African Studies%2075
+Sheffield Hallam University%2123
+South Bank University%2125
+Southampton Institute%2170
+St Aidan%2032
+St Aidan's%2032
+St Chad%2219
+St Chad's%2219
+St Cuthbert%2220
+St George%2077
+St George's Hospital Medical School%2077
+St Hild%2221
+St John%2222
+St John's%2222
+St Martin%2169
+St Martin's College%2169
+St Mary%2033
+St Mary's%2033
+St Thomas%2227
+St Thomas' Hospital%2227
+Staffordshire University%2126
+Stockton Campus%2034
+Surrey Institute of Art and Design%2171
+Swansea Institute of Higher Deucation%2181
+The Central School of Speech and Drama%2151
+The College of Ripon and York St John%2164
+The College of St Mark and St John%2175
+The London Institute%2162
+The Residential Coklleges Committee%2203
+The Universities Association for Continung Education%2204
+The Widening Participation Unit%2205
+Themes Valley University%2133
+Trevelyan%2035
+Trinity College%2182
+Trinity and All Saints%2172
+Trinity and All Saints' College%2172
+United Medical and Dental School of Guy%2226
+United Medical and Dental School of Guy's%2226
+University%2036
+University College Chichester%2173
+University College London%2078
+University College Worcester%2177
+University Officers%2016
+University of Aberdeen%2001
+University of Abertay Dundee%2002
+University of Andrews%2120
+University of Bath%2006
+University of Birmingham%2007
+University of Bradford%2010
+University of Brighton%2011
+University of Bristol%2012
+University of Buckingham%2014
+University of Cambridge%2015
+University of Central England In Birmingham%2019
+University of Central Lancashire%2020
+University of Derby%2025
+University of Dundee%2026
+University of Durham%2027
+University of East Anglia%2039
+University of East London%2040
+University of Edinburgh%2041
+University of Essex%2042
+University of Exeter%2043
+University of Glamorgan University of Glasgow%2044
+University of Greenwich%2046
+University of Hertfordshire%2048
+University of Huddersfield%2049
+University of Hull%2050
+University of Kent At Canterbury%2052
+University of Lancaster%2054
+University of Leeds%2055
+University of Leicester%2057
+University of Lincoln%2058
+University of Liverpool%2059
+University of London%2061
+University of Luton%2095
+University of Manchester%2096
+University of Manchester Institute of Science and Technology%2097
+University of Newcastle Upon Tyne%2101
+University of North London%2102
+University of Northumbria at Newcastle%2103
+University of Nottingham%2104
+University of Oxford%2107
+University of Paisley%2111
+University of Plymouth%2112
+University of Portsmouth%2113
+University of Reading%2115
+University of Salford%2121
+University of Sheffield%2122
+University of Southampton%2124
+University of Stirling%2127
+University of Strahclyde%2128
+University of Sunderland%2129
+University of Surrey%2130
+University of Surrey Roehampron%2119
+University of Sussex%2131
+University of Teesside%2132
+University of The West Ofengland%2143
+University of Ulster%2134
+University of Wales%2135
+University of Wales Bangor%2137
+University of Wales College%2140
+University of Wales College of Medicine%2139
+University of Wales,Institute%2216
+University of Wales,Lampeter%2217
+University of Wales,Swansea%2218
+University of Warwick%2141
+University of Westminster%2142
+University of Wolverhampton%2144
+University of York%2145
+Universuty CollegeNorthampron%2174
+Unversity of Wales Institute Cardiff%2183
+Ushaw%2037
+Van Mildert%2038
+Warburg Institute%2093
+Welsh College of Music and Drama%2184
+Winchester School of Art%2176
+Workers%2206
+Workers' Educational Association%2206

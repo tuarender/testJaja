@@ -1,0 +1,25 @@
+朝日大学%21211
+岐阜大学%21218
+岐阜女子大学%21216
+岐阜経済大学%21213
+中部学院大学%21222
+東海学院大学%21223
+岐阜薬科大学%21219
+中京学院大学%21221
+岐阜医療科学大学%21212
+岐阜聖徳学園大学%21215
+岐阜県立看護大学%21214
+情報科学芸術大学院大学%21220
+Asahi University%21211
+Chubu Gakuin University%21222
+Chukyo Gakuin University%21221
+Gifu College of Nursing%21214
+Gifu Keizai University%21213
+Gifu Pharmaceutical University%21219
+Gifu Shotoku Gakuen University%21215
+Gifu University%21218
+Gifu University of Medical Science%21212
+Gifu Women%21216
+Gifu Women's University%21216
+Institute of Advanced Media Arts and Sciences%21220
+Tokai Gakuin University%21223

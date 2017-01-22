@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+body{
+font-family:"Tahoma"
+}
+
+div.contentCancel{
+	margin: 50px auto 50px; 
+	max-width: 400px;
+	border:solid 1px #b2b3b5; 
+	-moz-border-radius:10px; 
+	padding:20px; 
+	background-color:#f6f6f6;
+}
+h1{
+	font-size:18px;
+	font-weight:bold;
+}
+
+div.error 
+{
+  padding-left: 0px;
+  color:#ff0000;
+  font-style:italic;
+}

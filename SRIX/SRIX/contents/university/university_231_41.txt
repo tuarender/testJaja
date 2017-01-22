@@ -1,0 +1,116 @@
+霍里--乔治城技术学院%10190
+奥兰治--卡尔霍恩技术学院%10199
+兰德大学%10193
+弗曼大学%10188
+艾伦大学%10175
+佛罗伦萨--达林顿技术学院%10186
+厄斯金学院%10185
+沃福德大学%10173
+肯弗斯学院%10164
+长老会学院%10168
+莫里斯学院%10196
+科克尔学院%10180
+纽伯利学院%10167
+安德森学院%10160
+南卡罗来纳（艾肯）大学%10208
+南卡罗来纳（联盟）大学%10214
+南卡罗来纳（博福特）大学%10209
+南卡罗来纳（萨姆特）大学%10213
+南卡罗来纳（斯巴达堡）大学%10212
+南卡罗来纳（兰卡斯特）大学%10210
+南卡罗来纳（萨尔克哈奇）大学%10211
+哥伦比亚学院%10163
+克莱姆森大学%10162
+温斯洛普大学%10172
+丹麦技术学院%10184
+约克技术学院%10216
+福尔希斯大学%10171
+南卫斯理大学%10203
+东北技术学院%10197
+查尔斯顿大学%10181
+三郡技术学院%10206
+克拉夫林大学%10178
+艾肯技术学院%10174
+莱姆斯顿学院%10166
+南卡罗来纳大学%10170
+三叉戟技术学院%10207
+本尼迪克特学院%10176
+北格林维尔学院%10198
+米德兰技术学院%10195
+强生威尔士大学%10192
+洛康特里技术学院%10205
+皮德蒙特技术学院%10200
+格林维尔技术学院%10189
+威廉斯堡技术学院%10215
+南梅塞迪斯特学院%10202
+查尔斯顿南方大学%10161
+哥伦比亚初级学院%10183
+福雷斯特初级学院%10187
+哥伦比亚国际大学%10182
+斯帕坦堡技术学院%10204
+沿岸卡罗莱纳大学%10179
+南卡罗来纳医学大学%10194
+弗朗西斯马里恩大学%10165
+南卡罗来纳州立大学%10201
+南卡罗来纳军事学院（要塞军事学院）%10217
+斯帕坦堡循道卫理学院%10169
+中央卡罗莱纳州技术学院%10177
+Aiken Technical College%10174
+Allen University%10175
+Anderson College%10160
+Benedict College%10176
+Central Carolina Technical College%10177
+Charleston Southern University%10161
+Claflin University%10178
+Clemson University%10162
+Coastal Carolina University%10179
+Coker College%10180
+College of Charleston%10181
+Columbia College%10163
+Columbia International University%10182
+Columbia Junior College%10183
+Converse College%10164
+Denmark Technical College%10184
+Erskine College%10185
+Florence-Darlington Technical College%10186
+Forrest Junior College%10187
+Francis Marion University%10165
+Furman University%10188
+Greenville Technical College%10189
+Horry-Georgetown Technical College%10190
+ITT Technical Institute%10191
+ITT技术研究所%10191
+Johnson & Wales University%10192
+Lander University%10193
+Limestone College%10166
+Medical University of South Carolina%10194
+Midlands Technical College%10195
+Morris College%10196
+Newberry College%10167
+North Greenville College%10198
+Northeastern Technical College%10197
+Orangeburg-Calhoun Technical College%10199
+Piedmont Technical College%10200
+Presbyterian College%10168
+South Carolina State University%10201
+Southern Methodist College%10202
+Southern Wesleyan University%10203
+Spartanburg Methodist College%10169
+Spartanburg Technical College%10204
+Technical College of the Lowcountry%10205
+The Citadel, The Military College of South Carolina%10217
+Tri-County Technical College%10206
+Trident Technical College%10207
+University of South Carolina%10170
+University of South Carolina Aiken%10208
+University of South Carolina Beaufort%10209
+University of South Carolina Lancaster%10210
+University of South Carolina Salkehatchie%10211
+University of South Carolina Spartanburg%10212
+University of South Carolina Sumter%10213
+University of South Carolina Union%10214
+Voorhees College%10171
+Williamsburg Technical College%10215
+Winthrop University%10172
+Wofford College%10173
+York Technical College%10216

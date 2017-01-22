@@ -1,0 +1,150 @@
+西南学院%6194
+中洲学院%6260
+纽曼大学%6189
+塔波学院%6196
+教友大学%6174
+贝克大学%6151
+伯特利大学%6154
+斯宾塞学院%6253
+圣玛丽学院%6192
+堪萨斯大学%6197
+贝沙奈大学%6153
+博立顿大学%6152
+斯特灵大学%6195
+渥太华大学%6157
+唐纳利学院%6170
+斯伯丁大学%6275
+巴克利学院%6159
+斯宾塞学院-列克星敦校区%6277
+独立社区学院%6181
+南俄亥俄大学%6249
+云郡社区学院%6165
+皮克维尔学院%6242
+赫塞斯顿学院%6177
+莫瑞州立大学%6237
+东南社区学院%6278
+高地社区学院%6178
+圣凯瑟琳学院%6271
+布罗马凯学院%6161
+麦克弗森学院%6187
+布罗马凯学院-奥拉西校区%6162
+艾伦郡社区学院%6158
+拉贝特社区学院%6185
+堪萨斯州立大学%6155
+林赛威尔逊学院%6231
+北肯塔基州校区%6250
+匹兹堡州立大学%6190
+威奇托州立大学%6199
+麦迪逊社区学院%6258
+中美拿撒勒大学%6156
+科尔比社区学院%6167
+海斯堡州立大学%6172
+曼哈顿基督学院%6186
+巴顿郡社区学院%6160
+道奇城社区学院%6169
+花园城社区学院%6175
+帕迪尤卡社区学院%6240
+巴特勒郡社区学院%6163
+托皮卡沃什本大学%6198
+西南商业技术学院%6251
+莫尔黑德州立大学%6236
+尼欧肖郡社区大学%6188
+帕迪尤卡技术学院%6241
+苏厄德郡社区学院%6193
+恩波里亚州立大学%6171
+斯科特堡社区学院%6173
+肯塔基山圣经学院%6255
+堪萨斯卫斯理大学%6184
+美南浸信会神学院%6273
+萨默塞特社区学院%6272
+梅斯维尔社区学院%6234
+约翰逊郡社区学院%6182
+科菲维尔社区学院%6166
+哈斯凯尔印第安大学%6176
+路易斯维尔技术学院%6232
+欧文思伯勒社区学院%6264
+国立商业与技术学院%6263
+堪萨斯中央基督教学院%6164
+普雷斯顿斯堡社区学院%6243
+堪萨斯城堪萨斯社区学院%6183
+美国托皮卡教育技术学院-托皮卡校区%6180
+哈钦森社区学院和职业学校%6179
+普拉特区社区学院和职业学校%6191
+考利郡社区学院和区职业技术学院%6168
+Allen County Community College%6158
+Baker University%6151
+Barclay College%6159
+Barton County Community College%6160
+Benedictine College%6152
+Bethany College%6153
+Bethel College%6154
+Butler County Community College%6163
+Central Christian College of Kansas%6164
+Cloud County Community College%6165
+Coffeyville Community College%6166
+Colby Community College%6167
+Cowley County Community College and Area Vocational-Technical School%6168
+Dodge City Community College%6169
+Donnelly College%6170
+Education America, Topeka Technical College, Topeka Campus%6180
+Emporia State University%6171
+Fort Hays State University%6172
+Fort Scott Community College%6173
+Friends University%6174
+Garden City Community College%6175
+Haskell Indian Nations University%6176
+Hesston College%6177
+Highland Community College%6178
+Hutchinson Coimmunity College and Area Vocational School%6179
+Independence Community College%6181
+Johnson County Community College%6182
+Kansas City Kansas Community College%6183
+Kansas State University%6155
+Kansas Wesieyan University%6184
+Kentucky Mountain Bible College%6255
+Labette Community College%6185
+Lindsey Wilson College%6231
+Louisville Technical Institute%6232
+Madisonville Community College%6258
+Manhattan Christian College%6186
+Maysville Community College%6234
+McPherson College%6187
+Mid-Continent College%6260
+MidAmerica Nazarene University%6156
+Morehead State University%6236
+Murray State University%6237
+National College of Business & Technology%6263
+Neosho County community College%6188
+Newman University%6189
+Northern Kentucky Campus%6250
+Ottawa University%6157
+Owensboro Community College%6264
+Paducah Community College%6240
+Paducah Technical College%6241
+Pikeville College%6242
+Pittsburg State University%6190
+Pratt Community College and Area Vocational School%6191
+Prestonsburg Community College%6243
+RETS Electronic Institute%6269
+RETS Medical and Business Istitute%6245
+RETS电子研究所%6269
+RETS医疗及商业研究所%6245
+Saint Mary College%6192
+Seward County Community College%6193
+Somerset Community College%6272
+Southeast Community College%6278
+Southern Baptist Theological Seminary%6273
+Southern Ohio College%6249
+Southwestern Coillege%6194
+Southwestern College of Business%6251
+Spalding University%6275
+Spencerian College%6253
+Spencerian College-Lexington%6277
+St. Catharine College%6271
+Sterling College%6195
+Tabor College%6196
+The Brow Mackie College%6161
+The Brown Mackie College-Olathe Campus%6162
+University of Kansas%6197
+Washburn University of Topeka%6198
+Wichita State University%6199

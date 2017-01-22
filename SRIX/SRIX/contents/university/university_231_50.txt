@@ -1,0 +1,140 @@
+里彭学院%10017
+银湖学院%10045
+迦太基学院%10011
+拉克兰学院%10032
+马凯特大学%10037
+劳伦斯大学%10013
+卡罗尔学院%10010
+赫齐宁学院%10029
+诺斯兰大学%10044
+凤凰城大学--美国威斯康星州校区%10047
+黑鹰技术学院%10021
+圣诺伯特学院%10018
+蒙特玛丽学院%10016
+埃奇伍德学院%10012
+阿尔弗诺学院%10007
+伯洛伊特学院%10008
+威斯康星大学--绿湾分校%10019
+威斯康辛大学--河瀑分校%10064
+威斯康星大学--巴伦郡分校%10049
+威斯康星大学--斯托特分校%10068
+威斯康星大学--沃克沙分校%10071
+威斯康星大学--苏必利分校%10069
+威斯康星大学--罗克郡分校%10065
+威斯康星大学--特沃特分校%10072
+威斯康星大学--麦迪逊分校%10054
+威斯康星大学--马什菲尔德/伍德郡分校%10058
+威斯康星大学--奥什科什分校%10060
+威斯康星大学--拉克罗斯分校%10053
+威斯康星大学--欧克莱尔分校%10050
+威斯康星大学--史蒂文点分校%10067
+威斯康星大学--里奇兰德分校%10063
+威斯康星大学--福克斯谷分校%10052
+威斯康星大学--麦若洪郡分校%10056
+威斯康星大学--密尔沃基分校%10059
+威斯康星大学--丰迪拉克分校%10051
+威斯康星大学--华盛顿郡分校%10070
+威斯康星大学--希博伊根分校%10066
+威斯康星大学--马里内特分校%10057
+威斯康星大学--帕克赛德分校%10061
+威斯康星大学--马尼托沃克分校%10055
+威斯康星大学--普拉特维尔分校%10062
+威斯康星大学-巴拉布/索克郡分校%10048
+盖特威技术学院%10028
+莱克肖尔技术学院%10033
+威斯康星路德学院%10076
+沃克沙郡技术学院%10073
+威斯康星技术学院%10075
+麦迪逊媒体研究所%10035
+奇普瓦谷技术学院%10023
+密尔沃基工程学院%10015
+哥伦比亚护理学院%10025
+中部州立技术学院%10038
+福克斯谷技术学院%10027
+尼科莱区技术学院%10042
+梅诺米尼国民学院%10024
+莫雷纳公园技术学院%10041
+丰迪拉克玛丽安学院%10014
+马拉纳瑟浸会神学院%10036
+西威斯康星技术学院%10074
+麦迪逊地区技术学院%10034
+卡迪纳尔斯特里奇大学%10009
+密尔沃基地区技术学院%10039
+西南威斯康星州技术学院%10046
+维泰博大学贝林护理学院%10020
+东北威斯康星州技术学院%10043
+布莱恩特和斯特拉顿学院%10022
+密尔沃基艺术与设计学院%10040
+康柯迪雅大学威斯康星分校%10026
+拉考特欧瑞里斯奥吉布瓦社区学院%10031
+Alverno College%10007
+Beloit College%10008
+Blackhawk Technical College%10021
+Bryant and Stratton College%10022
+Cardinal Stritch University%10009
+Carroll College%10010
+Carthage College%10011
+Chippewa Valley Technical College%10023
+College of Menominee Nation%10024
+Columbia College of Nursing%10025
+Concordia University Wisconsin%10026
+Edgewood College%10012
+Fox Valley Technical College%10027
+Gateway Technical College%10028
+Herzing College%10029
+ITT Technical Institute%10030
+ITT技术研究所%10030
+Lac Courte Oreilles Ojibwa Chommunity College%10031
+Lakeland College%10032
+Lakeshore Technical College%10033
+Lawrence University%10013
+Madison Area Technical College%10034
+Madison Media Institute%10035
+Maranatha Baptist Bible College%10036
+Marian College of Fond du Lac%10014
+Marquette University%10037
+Mid-State Technical College%10038
+Milwaukee Area Technical College%10039
+Milwaukee Institute of Art and Design%10040
+Milwaukee School of Engineering%10015
+Moraine Park Technical College%10041
+Mount Mary College%10016
+Nicolet Area Technical College%10042
+Northeast Wisconsin Technical College%10043
+Northland College%10044
+Ripon Colelge%10017
+Silver Lake College%10045
+Southwest Wisconsin Technical College%10046
+St. Norbert College%10018
+University of Phoenix-Wisconsin Campus%10047
+University of Wisconsin-Baraboo/Sauk County%10048
+University of Wisconsin-Barron County%10049
+University of Wisconsin-Eau Claire%10050
+University of Wisconsin-Fond du Lac%10051
+University of Wisconsin-Fox Valley%10052
+University of Wisconsin-Green Bay%10019
+University of Wisconsin-La Crosse%10053
+University of Wisconsin-Madison%10054
+University of Wisconsin-Manitowoc%10055
+University of Wisconsin-Marathhon County%10056
+University of Wisconsin-Marinette%10057
+University of Wisconsin-Marshfield/Wood County%10058
+University of Wisconsin-Milwaukee%10059
+University of Wisconsin-Oshkosh%10060
+University of Wisconsin-Parkside%10061
+University of Wisconsin-Platteville%10062
+University of Wisconsin-Richland%10063
+University of Wisconsin-River Falls%10064
+University of Wisconsin-Rock County%10065
+University of Wisconsin-Sheboygan%10066
+University of Wisconsin-Stevens Point%10067
+University of Wisconsin-Stout%10068
+University of Wisconsin-Superior%10069
+University of Wisconsin-Washington County%10070
+University of Wisconsin-Waukesha%10071
+University of Wisconsin-Whitewater%10072
+Viterbo University Bellin College of Nursing%10020
+Waukesha County Technical College%10073
+Western Wisconsin Technical College%10074
+Wisconsin Indianhead Technical College%10075
+Wisconsin Lutheran College%10076

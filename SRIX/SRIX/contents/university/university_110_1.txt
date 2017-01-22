@@ -1,0 +1,75 @@
+道都大学%21669
+星槎大学%21666
+函館大学%21674
+旭川大学%21654
+札幌大学%21665
+天使大学%21668
+北翔大学%21670
+藤女子大学%21675
+北海道大学%21683
+北星学園大学%21676
+札幌国際大学%21663
+旭川医科大学%21653
+小樽商科大学%21655
+名寄市立大学%21672
+札幌学院大学%21662
+釧路公立大学%21658
+北見工業大学%21657
+札幌大谷大学%21661
+札幌市立大学%21664
+酪農学園大学%21688
+帯広畜産大学%21656
+北海学園大学%21678
+札幌医科大学%21660
+室蘭工業大学%21687
+苫小牧駒澤大学%21671
+北海道医療大学%21679
+北海道文教大学%21685
+北海道薬科大学%21686
+北海道情報大学%21682
+北海道東海大学%21684
+北海道工業大学%21681
+北海道教育大学%21680
+千歳化学技術大学%21667
+北海学園北見大学%21677
+稚内北星学園大学%21689
+公立はこだて未来大学%21659
+日本赤十字北海道看護大学%21673
+Asahikawa Medical College%21653
+Asahikawa University%21654
+Chitose Institute of Science and Technology%21667
+Dohto University%21669
+Fuji Women%21675
+Fuji Women's College%21675
+Future University-Hakodate%21659
+Hakodate University%21674
+Health Science University of Hokkaido%21679
+Hokkai Gakuen University%21678
+Hokkai Gakuen University of Kitami%21677
+Hokkaido Bunkyo University%21685
+Hokkaido College of Pharmacy%21686
+Hokkaido Information University%21682
+Hokkaido Institute of Technology%21681
+Hokkaido Tokai University%21684
+Hokkaido University%21683
+Hokkaido University of Education%21680
+Hokusei Gakuen University%21676
+Hokusho University%21670
+Japanese Red Cross Hokkaido College of Nursing%21673
+Kitami Institute of Technology%21657
+Kushiro Public University of Economics%21658
+Muroran Institute of Technology%21687
+Nayoro City University%21672
+Obihiro University of Agriculture and Veterinary Medicine%21656
+Otaru University of Commerce%21655
+Rakuno Gakuen University%21688
+Sapporo City University%21664
+Sapporo Gakuin University%21662
+Sapporo International University%21663
+Sapporo Medical University%21660
+Sapporo Otani University%21661
+Sapporo University%21665
+Seisa University%21666
+Tenshi College%21668
+Tomakomai Komazawa University%21671
+Wakkanai Hokusei Gakuen College%21689

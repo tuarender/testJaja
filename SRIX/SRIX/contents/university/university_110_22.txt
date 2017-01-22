@@ -1,0 +1,24 @@
+北陸大学%21072
+金沢大学%21067
+金沢学院大学%21064
+北陸学院大学%21070
+金沢医科大学%21063
+金沢工業大学%21065
+金城学院大学%21069
+金沢星稜大学%21066
+石川県立大学%21062
+金沢美術工芸大学%21068
+石川県立看護大学%21061
+北陸先端科学技術大学院大学%21071
+Hokuriku Gakuin University%21070
+Hokuriku University%21072
+Ishikawa Prefectural Nursing University%21061
+Ishikawa Prefectural University%21062
+Japan Advanced Institute of Science and Technology%21071
+Kanazawa College of Art%21068
+Kanazawa Gakuin University%21064
+Kanazawa Institute of Technology%21065
+Kanazawa Medical University%21063
+Kanazawa Seiryo University%21066
+Kanazawa University%21067
+Kinjo Gakuin University%21069

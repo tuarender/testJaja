@@ -1,0 +1,70 @@
+Alice Lloyd College%6213
+Asbury College%6200
+Ashland Community College%6214
+Bellarmine University%6215
+Berea College%6201
+Brescia University%6202
+Campbellsville University%6216
+Centre College%6217
+Clear Creek Baptist Bible College%6218
+Cumberland College%6203
+Daymar College%6219
+Draughons Junior College%6220
+Eastern Kentucky University%6221
+Elizabethtown Community College%6222
+Georgetown College%6204
+Hazard Community College%6223
+Henderson Community College%6224
+Hopkinsville Community College%6225
+ITT Technical Institute%6226
+ITT技术研究所%6226
+Jefferson Community College%6227
+Kentucky Career Institute%6228
+Kentucky Christian College%6229
+Kentucky State University%6205
+Kentucky Wesleyan College%6206
+Midway College%6207
+Northern Kentucky University%6208
+Southern Ohio College,Northern Kentucky Campus%6279
+Sullivan University%6209
+Thomas More College%6210
+Transylvania University%6211
+Union College%6212
+University of Kentucky%6280
+University of Louisville%6281
+University of,Kentucky,Lexington Community College%6283
+Western Kentucky University%6282
+东肯塔基大学%6221
+中心学院%6217
+乔治敦学院%6204
+亨德森社区学院%6224
+伊丽莎白社区学院%6222
+伯里亚学院%6201
+克利尔克里克浸会神学院%6218
+北肯塔基大学%6208
+南俄亥俄大学-北肯塔基州校区%6279
+坎伯兰学院%6203
+坎贝尔斯大学%6216
+布雷西亚大学%6202
+戴马尔学院%6219
+托马斯莫尔学院%6210
+杰斐逊社区学院%6227
+沙利文大学%6209
+海泽德社区学院%6223
+爱丽丝劳埃德学院%6213
+特兰西瓦尼亚大学%6211
+米德韦学院%6207
+联合学院%6212
+肯塔基基督教大学%6229
+肯塔基大学%6280
+肯塔基大学列克星敦学院%6283
+肯塔基州卫斯理学院%6206
+肯塔基州立大学%6205
+肯塔基职业学院%6228
+西肯塔基大学%6282
+贝拉明大学%6215
+路易斯维尔大学%6281
+道格霍斯初级学院%6220
+阿什兰社区学院%6214
+阿斯伯里学院%6200
+霍普金斯社区学院%6225

@@ -1,0 +1,15 @@
+.small {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.thaibk {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: "MS Sans Serif"
+}
+A:link {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000099; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0066ff; TEXT-DECORATION: underline
+}

@@ -1,0 +1,106 @@
+関西大学%21128
+藍野大学%21097
+近畿大学%21130
+大阪大学%21121
+相愛大学%21136
+阪南大学%21142
+摂南大学%21134
+東大阪大学%21143
+大阪芸術大学%21109
+大阪工業大学%21110
+関西医療大学%21126
+大阪音楽大学%21101
+大阪歯科大学%21114
+梅花女子大学%21140
+千里金蘭大学%21135
+大阪経済大学%21107
+大阪成蹊大学%21119
+大阪産業大学%21113
+太成学院大学%21137
+大阪大谷大学%21100
+大阪観光大学%21105
+大阪教育大学%21106
+大阪商業大学%21116
+関西医科大学%21125
+羽衣国際大学%21141
+大阪医科大学%21099
+四天王寺大学%21133
+大阪市立大学%21118
+大阪府立大学%21123
+大阪学院大学%21103
+桃山学院大学%21145
+大阪国際大学%21112
+大阪青山大学%21098
+プール学院大学%21144
+航空保安大学校%21131
+大阪外国語大学%21102
+大阪女学院大学%21117
+追手門学院大学%21124
+四條畷学園大学%21132
+関西外国語大学%21127
+常磐会学園大学%21139
+森ノ宮医療大学%21146
+帝塚山学院大学%21138
+大阪経済法科大学%21108
+大阪国際女子大学%21111
+大阪樟蔭女子大学%21115
+大阪電気通信大学%21122
+関西福祉科学大学%21129
+大阪総合保育大学%21120
+大阪川崎リハビリテーション大学%21104
+Aeronautical Safety College%21131
+Aino University%21097
+Baika Women%21140
+Baika Women's College%21140
+Hagoromo University of International Studies%21141
+Hannan University%21142
+Higashi Osaka Daigaku%21143
+Kansai College of Oriental Medicine%21126
+Kansai Gaidai University%21127
+Kansai Medical University%21125
+Kansai University%21128
+Kansai University of Welfare Sciences%21129
+Kinki University%21130
+LCA Institute of Business%21096
+LCA大学院大学%21096
+Morinomiya University of Medical Sciences%21146
+Osaka Aoyama College%21098
+Osaka City University%21118
+Osaka College of Music%21101
+Osaka Dental University%21114
+Osaka Electro-Communication University%21122
+Osaka Gakuin University%21103
+Osaka General Childcare University%21120
+Osaka Institute of technology%21110
+Osaka International University%21112
+Osaka International University for Women%21111
+Osaka Jogakuin College%21117
+Osaka Kawasaki Rehabilitation University%21104
+Osaka Kyoiku University%21106
+Osaka Medical College%21099
+Osaka Medical College%21099
+Osaka Ohtani University%21100
+Osaka Prefecture University%21123
+Osaka Sangyo University%21113
+Osaka Seikei University%21119
+Osaka Shoin Women%21115
+Osaka Shoin Women's College%21115
+Osaka University%21121
+Osaka University of Arts%21109
+Osaka University of Commerce%21116
+Osaka University of Economics%21107
+Osaka University of Economics and Law%21108
+Osaka University of Foreign Studies%21102
+Osaka University of Tourism%21105
+Otemon Gakuin University%21124
+Poole Gakuin University%21144
+Senri Kinran College%21135
+Setsunan University%21134
+Shijonawate Gakuen University%21132
+Shitennoji University%21133
+Soai University%21136
+St. Andrew%21145
+St. Andrew's University%21145
+Taisei Gakuin University%21137
+Tezukayama Gakuin University%21138
+Tokiwakai Gakuen Daigaku%21139

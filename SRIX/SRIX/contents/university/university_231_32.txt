@@ -1,0 +1,69 @@
+艺术中心%8976
+西南学院%8972
+城市学院%10699
+圣约翰学院%8993
+圣达菲学院%8971
+圣胡安大学%10709
+凤凰城大学（新墨西哥校区)%10716
+新墨西哥大学%8997
+梅萨技术学院%8983
+卢纳社区学院%10697
+国立美国大学%10700
+新墨西哥大学（盖洛普）%10713
+新墨西哥大学（巴伦西亚校区）%10715
+新墨西哥大学--洛斯阿拉莫斯科分校%8999
+圣达菲社区学院%8995
+东新墨西哥大学%8973
+西新墨西哥大学%10717
+东新墨西哥大学（罗斯韦尔）%10694
+新墨西哥高地大学%8986
+克洛维斯社区学院%8977
+新墨西哥军事学院%10688
+皮马麦斯科研究所%8992
+新墨西哥州立大学%10689
+西南印度理工学院%10711
+新墨西哥初级学院%10702
+美国印第安艺术学院%10695
+北新墨西哥社区学院%10706
+新墨西哥州州立大学（卡尔斯巴德）%10704
+新墨西哥州州立大学--格兰茨分校%8990
+多纳阿尼亚科社区学院%8978
+新墨西哥矿业及科技学院%10687
+阿尔布开克技术职业学院%8975
+新墨西哥州州立大学阿拉莫戈多分校%8988
+Albuquerque Technical Vocational Institute%8975
+Clovis Community College%8977
+College of Santa Fe%8971
+College of the Southwest%8972
+Dona Ana Branch Community College%8978
+Eastern New Mexico University%8973
+Eastern New Mexico University-Roswell%10694
+ITT Technical Institute%8981
+ITT技术研究所%8981
+Institute of American Indian Arts%10695
+Luna Community College%10697
+Mesa Technical College%8983
+Metropolitan College of Court Reporting%10699
+National American University%10700
+New Mexico Highlands University%8986
+New Mexico Institute of Mining and Technology%10687
+New Mexico Junior College%10702
+New Mexico Military Institute%10688
+New Mexico State University%10689
+New Mexico State University-Alamogordo%8988
+New Mexico State University-Carlsbad%10704
+New Mexico State University-Grants%8990
+Northern New Mexico Community College%10706
+Pima Mesical Institute%8992
+San Juan College%10709
+Santa Fe Community College%8995
+Southwestern Indian Polytechnic Institute%10711
+St. John%8993
+St. John's College%8993
+The Art Center%8976
+University of New Mexico%8997
+University of New Mexico-Gallup%10713
+University of New Mexico-Los Alamos Branch%8999
+University of New Mexico-Valencia Campus%10715
+University of Phoenix-New Mexico Campus%10716
+Western New Mexico University%10717

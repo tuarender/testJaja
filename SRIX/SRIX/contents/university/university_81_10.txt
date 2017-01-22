@@ -1,0 +1,134 @@
+AKAD-Center for Studies Dusseldorf%22210
+AKAD-Studienzentrum Düsseldorf%22210
+Aachen University of Applied Sciences%22219
+Academy of Fine Arts Muenster%22261
+Academy of Media Arts Cologne%22262
+Academy of Music Cologne%22252
+Academy of Music Detmold%22251
+Alanus Hochschule für Kunst und Gesellschaft%22211
+Alanus University of Arts and Social Sciences%22211
+Arts College Dusseldorf%22260
+Bergische Universität Wuppertal%22212
+Bielefeld University of Applied Sciences%22220
+Bielefeld University of Applied Sciences%22222
+Bochum University of Applied Sciences%22247
+Bonn-Rhein-Sieg University of Applied Sciences%22248
+CBS Cologne Business School%22214
+Campus Jülich%22213
+Catholic University of Applied Sciences North Rhine-Westphalia%22258
+Church-run University Wuppertal / Bethel%22259
+Cologne Rhine University of Applied Sciences%22265
+Cologne University of Applied Sciences%22227
+Deutsche Sporthochschule Köln%22215
+Dortmund University of Applied Sciences%22223
+Dusseldorf University of Applied Sciences%22224
+Europäische Fachhochschule Brühl%22216
+European University of Applied Sciences Bruehl%22216
+Evangelische Fachhochschule Rheinland-Westfalen-Lippe%22217
+Evangelistenschule Johanneum%22218
+Evangelists%22218
+Evangelists' School Johanneum%22218
+FHDW Fachhochschule der Wirtschaft Bergisch Gladbach%22231
+FHDW Fachhochschule der Wirtschaft Bielefeld%22232
+FHDW Fachhochschule der Wirtschaft Paderborn%22233
+FOM Fachhochschule für Ökonomie und Management (Aachen)%22234
+FOM Fachhochschule für Ökonomie und Management (Bochum)%22235
+FOM Fachhochschule für Ökonomie und Management (Bonn)%22236
+FOM Fachhochschule für Ökonomie und Management (Düsseldorf)%22238
+FOM Fachhochschule für Ökonomie und Management (Duisburg)%22237
+FOM Fachhochschule für Ökonomie und Management (Essen)%22239
+FOM Fachhochschule für Ökonomie und Management (Gütersloh)%22240
+FOM Fachhochschule für Ökonomie und Management (Köln)%22241
+FOM Fachhochschule für Ökonomie und Management (Marl)%22242
+FOM Fachhochschule für Ökonomie und Management (Neuss)%22243
+FOM Fachhochschule für Ökonomie und Management (Siegen)%22244
+FOM University of Applied Sciences (Economics and Management) Aachen%22234
+FOM University of Applied Sciences (Economics and Management) Bochum%22235
+FOM University of Applied Sciences (Economics and Management) Bonn%22236
+FOM University of Applied Sciences (Economics and Management) Cologne%22241
+FOM University of Applied Sciences (Economics and Management) Duisburg%22237
+FOM University of Applied Sciences (Economics and Management) Dusseldorf%22238
+FOM University of Applied Sciences (Economics and Management) Essen%22239
+FOM University of Applied Sciences (Economics and Management) Gütersloh%22240
+FOM University of Applied Sciences (Economics and Management) Marl%22242
+FOM University of Applied Sciences (Economics and Management) Neuss%22243
+FOM University of Applied Sciences (Economics and Management) Siegen%22244
+Fachhochschule Aachen%22219
+Fachhochschule Bielefeld%22220
+Fachhochschule Düsseldorf%22224
+Fachhochschule Dortmund%22223
+Fachhochschule Gelsenkirchen%22225
+Fachhochschule Hamm%22226
+Fachhochschule Köln%22227
+Fachhochschule Münster%22229
+Fachhochschule Südwestfalen%22228
+Fachhochschule des Bundes für Öffentliche Verwaltung Brühl%22221
+Fachhochschule des Mittelstandes Bielefeld%22222
+Federal University of Applied Sciences (Administration)%22221
+FernUniversität Hagen%22230
+Folkwang Hochschule%22245
+Folkwang University%22245
+Fresenius University of Applied Sciences Cologne%22250
+Friedrich-Wilhelms-University of Bonn%22266
+Gelsenkirchen University of Applied Sciences%22225
+German Sport University of Cologne%22215
+Hamm University of Applied Sciences%22226
+Heinrich-Heine-Universität Düsseldorf%22246
+Hochschule Bochum%22247
+Hochschule Bonn-Rhein-Sieg%22248
+Hochschule Fresenius Köln%22250
+Hochschule Niederrhein%22253
+Hochschule Westfalen-Lippe%22254
+Hochschule der Sparkassen Finanzgruppe Bonn%22249
+Hochschule für Musik Detmold%22251
+Hochschule für Musik Köln%22252
+ISM International School of Management Dortmund%22257
+International University of Applied Sciences Bad Honnef%22256
+Internationale Fachhochschule Bad Honnef%22256
+Juelich Campus%22213
+Katholische Hochschule Nordrhein-Westfalen%22258
+Kirchliche Hochschule Wuppertal / Bethel%22259
+Kunstakademie Düsseldorf%22260
+Kunstakademie Münster%22261
+Kunsthochschule für Medien Köln%22262
+Muenster University of Applied Sciences%22229
+Niederrhein University of Applied Sciences%22253
+Open University Hagen%22230
+Philosophical-Thelogical University of Sankt Augustin%22263
+Philosophical-Thelogical University of Vallendar%22264
+Philosophisch-Theologische Hochschule Sankt Augustin%22263
+Philosophisch-Theologische Hochschule Vallendar%22264
+Protestant University of Applied Sciences Rhine-Westphalia%22217
+RW-Technical University Aachen%22268
+RWTH Aachen%22268
+Rheinische Fachhochschule Köln%22265
+Rheinische Friedrich-Wilhelms-Universität Bonn%22266
+Ruhr-Universität Bochum%22267
+Ruhr-University of Bochum%22267
+South-Westphalia University of Applied Sciences%22228
+Technical University of Applied Sciences Georg Agricola Bochum%22269
+Technical University of Dortmund%22270
+Technische Fachhochschule Georg Agricola Bochum%22269
+Technische Universität Dortmund%22270
+Universität Bielefeld%22271
+Universität Duisburg Essen%22272
+Universität Paderborn%22274
+Universität Siegen%22275
+Universität Witten-Herdecke%22276
+Universität zu Köln%22273
+University of Applied Sciences (Economics) Bielefeld%22232
+University of Applied Sciences (Economics) Paderborn%22233
+University of Applied Sciences (Economics)Bergisch Gladbach%22231
+University of Applied Sciences Bonn%22249
+University of Applied Sciences Westphalia-Lippe%22254
+University of Bielefeld%22271
+University of Cologne%22273
+University of Duisburg/Essen%22272
+University of Dusseldorf%22246
+University of Paderborn%22274
+University of Siegen%22275
+University of Witten-Herdecke%22276
+University of Wuppertal%22212
+Westfälische Wilhelms-Universität Münster%22277
+Wilhelms-University of Muenster%22277
+ibs International Business School Lippstadt%22255

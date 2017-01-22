@@ -1,0 +1,150 @@
+ITT技术研究所%10121
+卡森-纽曼学院%10086
+米勒-莫特商学院%10134
+勒莫安--欧文学院%10128
+弗里德-哈德曼大学%10118
+罗兹大学%10094
+联合大学%10099
+南方大学%10154
+海沃学院%10120
+国王学院%10088
+雷恩学院%10126
+李伊大学%10127
+南部学院%10125
+兰伯斯大学%10089
+阿奎那学院%10103
+孟菲斯大学%10100
+菲斯克大学%10087
+克赖顿大学%10112
+布赖恩学院%10107
+坎伯兰大学%10113
+米利根学院%10093
+伯特利大学%10106
+诺斯艺术学院%10141
+玛丽维尔大学%10092
+贝尔蒙特大学%10085
+林肯纪念大学%10090
+约翰逊圣经学院%10124
+田纳西理工大学%10096
+塔斯卡卢姆学院%10098
+范德比尔特大学%10101
+利普斯科姆大学%10091
+麦德万斯研究所%10130
+美国田纳西大学%10150
+孟菲斯艺术学院%10131
+北部中心研究所%10139
+奥莫尔设计学院%10142
+田纳西州立大学%10095
+基督教兄弟大学%10109
+南方基督复临大学%10145
+罗恩州立社区学院%10144
+道格洪斯初级学院%10114
+中美浸信会神学院%10132
+中田纳西州立大学%10133
+东田纳西州立大学%10116
+马丁循道卫理学院%10129
+美国浸会学院神学院%10102
+纳什维尔州技术学院%10137
+田纳西州电子研究所%10147
+西南田纳西社区学院%10146
+电子计算机编程学院%10117
+莫特洛州立社区学院%10135
+田纳西大学马丁校区%10152
+田纳西州卫斯理大学%10149
+杰克逊州立社区学院%10122
+田纳西州坦普尔大学%10148
+孟菲斯东南技术学院%10159
+奥斯汀皮艾州立大学%10104
+特雷维卡拿撒勒大学%10097
+浸会纪念卫生科学学院%10105
+沃尔特斯州立社区学院%10156
+戴尔斯堡州立社区学院%10115
+东北州立技术社区学院%10140
+自由意志浸信会神学院%10119
+沃伦提尔州立社区学院%10155
+克利夫兰州立社区学院%10110
+国立生商业与技术学院%10138
+哥伦比亚州立社区学院%10111
+美国营养学会营养学院%10158
+田纳西大学查塔努加校区%10151
+沃特金斯艺术与设计学院%10157
+田纳西大学健康科学中心%10153
+纳什维尔汽车柴油机学院%10136
+派利西比州立技术社区学院%10143
+查塔努加州立技术社区学院%10108
+约翰A古普顿大学%10123
+American Academy of Nutrition, College of Nutrition%10158
+American Baptist College of American Baptist Theological Seminary%10102
+Aquinas College%10103
+Austin Peay State University%10104
+Baptist Memorial College of Health Sciences%10105
+Belmont University%10085
+Bethel College%10106
+Bryan College%10107
+Carson-Newman College%10086
+Chattanooga State Technical Community College%10108
+Christian Brothers University%10109
+Cleveland State Community College%10110
+Columbia State Community College%10111
+Crichton College%10112
+Cumberland University%10113
+Draughons Junior College%10114
+Dyersburg State Community College%10115
+East Tennessee State University%10116
+Education America,Southeast College of Technology,Memphis%10159
+Electronic Computer Programming College%10117
+Fisk University%10087
+Free Will Baptist Bible College%10119
+Freed-Hardeman University%10118
+Hiwassee College%10120
+ITT Technical Institute%10121
+Jackson State Community College%10122
+John A. Gupton College%10123
+Johnson Bible College%10124
+King College%10088
+Lambuth University%10089
+Lane College%10126
+LeMoyne-Owen College%10128
+Lee University%10127
+Lincoin Memorial Unversity%10090
+Lipscomb Univeristy%10091
+Martin Methodist College%10129
+Maryville College%10092
+MedVance Institute%10130
+Memphis College of Art%10131
+Mid-America Baptist Theological Seminary%10132
+Middle Tennessee State University%10133
+Miller-Motte Business College%10134
+Milligan College%10093
+Motlow State Community College%10135
+Nashville Auto Diesel College%10136
+Nashville State Technical Institute%10137
+National College of Business & Technology%10138
+North Central Institute%10139
+Northeast State Technical Community College%10140
+Nossi College of Art%10141
+O'More College of Design%10142
+Pellissippi State Technical Community College%10143
+Rhodes College%10094
+Roane State Community College%10144
+South College%10125
+Southern Adventist University%10145
+Southwest Tennessee Community College%10146
+Tennessee Institute of Electronics%10147
+Tennessee State University%10095
+Tennessee Technological University%10096
+Tennessee Temple University%10148
+Tennessee Wesleyan College%10149
+The Univeristy of Tennessee%10150
+The Univeristy of Tennessee at Chattanooga%10151
+The University of Memphis%10100
+The University of Tennessee Health Science Center%10153
+The University of Tennessee at Martin%10152
+Trevecca Nazarene University%10097
+Tusculum College%10098
+Union University%10099
+University of the South%10154
+Vanderbilt University%10101
+Volunteer State Community College%10155
+Walters State Community College%10156
+Watkins College of Art and Design%10157

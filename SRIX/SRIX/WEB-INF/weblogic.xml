@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weblogic-web-app xmlns="http://xmlns.oracle.com/weblogic/weblogic-web-app" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd http://xmlns.oracle.com/weblogic/weblogic-web-app http://xmlns.oracle.com/weblogic/weblogic-web-app/1.9/weblogic-web-app.xsd">
+<container-descriptor>
+	<prefer-web-inf-classes>true</prefer-web-inf-classes>
+</container-descriptor>
+<jsp-descriptor>
+	<keepgenerated>false</keepgenerated>
+	<page-check-seconds>1</page-check-seconds>
+</jsp-descriptor>
+ <charset-params>
+      <input-charset>
+        <resource-path>/*</resource-path>
+        <java-charset-name>UTF-8</java-charset-name>
+      </input-charset>
+    </charset-params>
+  <context-root>/</context-root>
+    <weblogic-version>12.2.1.2</weblogic-version>
+</weblogic-web-app>

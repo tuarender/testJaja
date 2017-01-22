@@ -1,0 +1,52 @@
+TD.menu {
+	COLOR: #FFFFFF;
+	HEIGHT: 24px;
+	BACKGROUND-COLOR: bbc0ba
+}
+TD.menu_selected {
+	HEIGHT: 24px; BACKGROUND-COLOR: #477fc9
+}
+A.menu {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.menu:hover {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+TD.stepbar {
+	BACKGROUND-COLOR: #ffffff
+}
+TD.stepbar_spliter {
+	BACKGROUND-COLOR: #000080
+}
+TD.stepbar_selected {
+	BACKGROUND-COLOR: c3c7c3
+}
+A.stepbar {
+	FONT-SIZE: 10pt; COLOR: #000080; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:link:unknown {
+	FONT-SIZE: 10pt; COLOR: #000080; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:active:unknown {
+	FONT-SIZE: 10pt; COLOR: #000080; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.stepbar:hover {
+	FONT-SIZE: 10pt; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.stepbar_selected {
+	FONT-SIZE: 10pt;
+	COLOR: #ffffff;
+	TEXT-DECORATION: none;
+}
+A.stepbar_selected:link {
+	FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.stepbar_selected:active {
+	FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.stepbar_selected:hover {
+	FONT-SIZE: 10pt; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.direction {
+	FONT-SIZE: 8pt; COLOR: #830002
+}

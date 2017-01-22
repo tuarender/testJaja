@@ -1,0 +1,60 @@
+龍谷大学%21251
+佛教大学%21249
+京都大学%21237
+花園大学%21248
+大谷大学%21224
+同志社大学%21247
+立命館大学%21250
+京都橘大学%21238
+種智院大学%21245
+京都薬科大学%21243
+京都府立大学%21241
+京都精華大学%21234
+京都産業大学%21230
+京都学園大学%21227
+京都教育大学%21228
+京都女子大学%21232
+京都文京大学%21242
+京都創成大学%21236
+京都外国語大学%21226
+同志社女子大学%21246
+京都市立芸術大学%21233
+京都工芸繊維大学%21229
+京都造形芸術大学%21235
+京都府立医科大学%21240
+京都医療科学大学%21225
+京都光華女子大学%21244
+京都情報大学院大学%21231
+京都ノートルダム女子大学%21239
+Bukkyo University%21249
+Doshisha University%21247
+Doshisha Women%21246
+Doshisha Women's College of Liberal Arts%21246
+Hanazono University%21248
+Koka Women%21244
+Koka Women's College%21244
+Kyoto Bunkyo University%21242
+Kyoto City University of Arts%21233
+Kyoto College of Art and Design%21235
+Kyoto College of Graduate Studies for Informatics%21231
+Kyoto College of Medical Science%21225
+Kyoto Gakuen University%21227
+Kyoto Institute of Technology%21229
+Kyoto Pharmaceutical University%21243
+Kyoto Prefectural University%21241
+Kyoto Prefectural University of Medicine%21240
+Kyoto Sangyo University%21230
+Kyoto Seika University%21234
+Kyoto Sosei University%21236
+Kyoto Tachibana Univeristy%21238
+Kyoto Unievrsity of Education%21228
+Kyoto University%21237
+Kyoto University of Foreign Studies%21226
+Kyoto Women%21232
+Kyoto Women's University%21232
+Notre Dame Women%21239
+Notre Dame Women's College of Kyoto%21239
+Otani University%21224
+Ritsumeikan University%21250
+Ryukoku University%21251
+Shuchiin College%21245

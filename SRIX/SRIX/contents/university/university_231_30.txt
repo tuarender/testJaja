@@ -1,0 +1,46 @@
+科尔比-索耶学院%8948
+赫瑟大学%8951
+里韦学院%8938
+基恩州立学院%8913
+马格达伦学院%8965
+达特茅斯学院%8930
+新英格兰大学%8915
+新罕布什尔大学%8942
+麦克金托什学院%8914
+圣安塞尔姆学院%8919
+怀特派因斯学院%8923
+终身教育系统学院%8947
+普利茅斯州立大学%8957
+托马斯莫尔文学院%8921
+富兰克林皮尔斯学院%8944
+新罕布什尔南方大学%8920
+丹尼尔韦伯斯特大学%8949
+新罕布什尔州技术学院%8956
+新罕布什尔州艺术学院%8935
+新罕布什尔州社区技术学院（柏林/拉科尼亚）%8968
+新罕布什尔州社区技术学院（纳舒厄/克莱尔蒙特）%8970
+新罕布什尔州社区技术学院（曼彻斯特/斯塔瑟姆）%8969
+新罕布什尔大学曼彻斯特分校%8966
+Colby-Sawyer College%8948
+Daniel Webster College%8949
+Dartmouth College%8930
+Franklin Pierce College%8944
+Hesser College%8951
+Keene State College%8913
+Magdalen College%8965
+Mclntosh College%8914
+New England College%8915
+New Hampshire Community Technical College,  Manchester/Statham%8969
+New Hampshire Community Technical College, Berlin/Laconia%8968
+New Hampshire Community Technical College, Nashua/Claremont%8970
+New Hampshire Institute of Art%8935
+New Hampshire Technical Institute%8956
+Plymouth State College%8957
+Rivier College%8938
+Saint Anselm College%8919
+Southern New Hampshire Universisty%8920
+Thomas More College of Liberal Arts%8921
+University System College for Lifelang Learning%8947
+University of New Hampshire%8942
+University of New Hampshire at Manchester%8966
+White Pines College%8923

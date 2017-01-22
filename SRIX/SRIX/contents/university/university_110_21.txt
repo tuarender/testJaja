@@ -1,0 +1,96 @@
+修文大学%21018
+中部大学%21024
+星城大学%21020
+南山大学%21042
+同朋大学%21025
+中京大学%21023
+愛知大学%21013
+名城大学%21047
+名古屋大学%21040
+人間環境大学%21045
+豊田工業大学%21026
+大同工業大学%21021
+愛知産業大学%21010
+愛知文教大学%21015
+中京女子大学%21022
+愛知淑徳大学%21011
+愛知工業大学%21009
+愛知県立大学%21007
+愛知学院大学%21002
+豊橋創造大学%21028
+桜花学園大学%21017
+愛知工科大学%21008
+愛知教育大学%21004
+愛知学泉大学%21003
+日本福祉大学%21044
+愛知東邦大学%21014
+愛知医科大学%21001
+名古屋文理大学%21041
+名古屋商科大学%21036
+名古屋産業大学%21035
+椙山女学園大学%21019
+名古屋女子大学%21037
+愛知みずほ大学%21016
+名古屋学院大学%21031
+名古屋市立大学%21038
+名古屋音楽大学%21029
+名古屋芸術大学%21033
+名古屋経済大学%21032
+名古屋工業大学%21034
+名古屋造形大学%21039
+愛知新城大谷大学%21012
+愛知県立看護大学%21005
+藤田保健衛生大学%21046
+豊橋技術科学大学%21027
+名古屋外国語大学%21030
+愛知県立芸術大学%21006
+日本赤十字豊田看護大学%21043
+Aichi Bunkyo University%21015
+Aichi Gakuin University%21002
+Aichi Gakusen University%21003
+Aichi Institute of Technology%21009
+Aichi Medical University%21001
+Aichi Mizuho College%21016
+Aichi Prefectural College of Nursing & Health%21005
+Aichi Prefectural University%21007
+Aichi Prefectural University of Fine Arts and Music%21006
+Aichi Sangyo University%21010
+Aichi Shinshiro Otani Daigaku%21012
+Aichi Shukutoku University%21011
+Aichi Toho University%21014
+Aichi University%21013
+Aichi University of Education%21004
+Aichi University of Technology%21008
+Chubu University%21024
+Chukyo University%21023
+Chukyo Women%21022
+Chukyo Women's University%21022
+Daido Institute of Technology%21021
+Doho University%21025
+Fujita Health University%21046
+Japanese Red Cross Toyota College of Nursing%21043
+Meijo University%21047
+Nagoya Bunri University%21041
+Nagoya City University%21038
+Nagoya College of Music%21029
+Nagoya Economics University%21032
+Nagoya Gakuin University%21031
+Nagoya Institute of Technology%21034
+Nagoya Sangyo University%21035
+Nagoya University%21040
+Nagoya University of Atrs%21033
+Nagoya University of Commerce and Business Administration%21036
+Nagoya University of Foreign Studies%21030
+Nagoya Women%21037
+Nagoya Women's University%21037
+Nagoya Zokei University of Art & Design%21039
+Nanzan University%21042
+Nihon Fukushi University%21044
+Ohka Gakuen College%21017
+Seijoh University （Tokai）%21020
+Shubun University%21018
+Sugiyama Jogakuen University%21019
+Toyohashi Sozo College%21028
+Toyohashi University of Technology%21027
+Toyota Technological Institute%21026
+University of Human Environments%21045

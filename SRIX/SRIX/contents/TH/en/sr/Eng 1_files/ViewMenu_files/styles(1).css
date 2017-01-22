@@ -1,0 +1,18 @@
+TD.menu {
+	FONT-WEIGHT: bold; HEIGHT: 24px; BACKGROUND-COLOR: #a4bed9
+}
+TD.menu_selected {
+	FONT-WEIGHT: bold; HEIGHT: 24px; BACKGROUND-COLOR: #4e6783
+}
+TD.stepbar {
+	BACKGROUND-COLOR: #ffffff
+}
+TD.stepbar_spliter {
+	BACKGROUND-COLOR: #000080
+}
+TD.stepbar_selected {
+	BACKGROUND-COLOR: #477fc9
+}
+.direction {
+	FONT-SIZE: 8pt; COLOR: #830002
+}

@@ -1,0 +1,58 @@
+奥尔德森- 伯德斯学院%6877
+马歇尔大学%6882
+贝沙奈学院%6878
+康科德学院%6879
+谢泼德学院%6855
+塞伦国际大学%6884
+芒廷州立大学%6864
+芒廷州立大学%6853
+国立理工学院%6865
+查尔斯顿大学%6856
+西弗吉尼亚大学%6904
+俄亥俄河谷学院%6866
+惠灵耶稣会大学%6889
+费尔蒙特州立大学%6851
+格伦维尔州立大学%6892
+西利伯蒂州立大学%6899
+西弗吉尼亚州商学院%6900
+西弗吉尼亚州立学院%6873
+布卢菲尔德州立大学%6861
+阿巴拉契亚圣经学院%6890
+西弗吉尼亚州初级学院%6871
+戴维斯及埃尔金斯大学%6850
+亨廷顿初级商业技术学院%6893
+西弗吉尼亚州卫斯理大学%6858
+西弗吉尼亚州北部社区学院%6902
+西弗吉尼亚理工大学研究所%6887
+西南弗吉尼亚州社区与技术学院%6868
+西弗吉尼亚大学帕克斯伯格校区%6905
+西弗吉尼亚大学波多马克州立学院%6867
+Alderson-Broaddes College%6877
+Appalachian Bible College%6890
+Bethany College%6878
+Bluefield State College%6861
+Concord College%6879
+Davis & Elkins College%6850
+Fairmont State College%6851
+Glenville State College%6892
+Huntington Junior College of Business%6893
+Marshall University%6882
+Mountain State College%6864
+Mountain State University%6853
+National Institute of Technology%6865
+Ohio Valley College%6866
+Potomac State College of West Virginia University%6867
+Salem International University%6884
+Shepherd College%6855
+Southern West Virginia Community and Technical College%6868
+University of Charleston%6856
+West Liberty State College%6899
+West Virginia Business College%6900
+West Virginia Junior College%6871
+West Virginia Northern Community College%6902
+West Virginia State College%6873
+West Virginia University%6904
+West Virginia University Institute of Technology%6887
+West Virginia University at Parkersburg%6905
+West Virginia Wesleyan College%6858
+Wheeling Jesuit University%6889

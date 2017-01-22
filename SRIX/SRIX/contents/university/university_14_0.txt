@@ -1,0 +1,120 @@
+邦德大学%3019
+迪肯大学%3018
+悉尼大学%3031
+南澳大学%3007
+ボンド大学%3019
+北领地大学%3038
+拉筹伯大学%3011
+堪培拉大学%3036
+昆士兰大学%3040
+墨尔本大学%3013
+莫纳什大学%3012
+卧龙岗大学%3033
+麦加里大学%3029
+西悉尼大学%3032
+默多克大学%3002
+纽卡斯尔大学%3026
+巴拉瑞特大学%3009
+阳光海岸大学%3023
+弗林德斯大学%3006
+查尔斯特大学%3037
+シドニー大学%3031
+埃文代尔学院%3028
+格里菲斯大学%3010
+新英格兰大学%3025
+科廷科技大学%3027
+阿德莱德大学%3005
+悉尼科技大学%3034
+维多利亚大学%3016
+南昆士兰大学%3022
+南十字星大学%3024
+昆士兰科技大学%3039
+モナッシュ大学%3012
+アデレード大学%3005
+詹姆斯库克大学%3020
+西シドニー大学%3032
+ディーキン大学%3018
+マードック大学%3002
+キャンベラ大学%3036
+西澳大利亚大学%3004
+埃迪斯科文大学%3001
+グリフィス大学%3010
+中央昆士兰大学%3021
+斯威本科技大学%3015
+新南威尔士大学%3030
+ラトローブ大学%3011
+ビクトリア大学%3016
+塔斯马尼亚大学%3017
+バララット大学%3009
+メルボルン大学%3013
+タスマニア大学%3017
+ウーロンゴン大学%3033
+フリンダース大学%3006
+マッコーリー大学%3029
+サザンクロス大学%3024
+澳大利亚国立大学%3035
+シドニー工科大学%3034
+澳大利亚圣母大学%3003
+澳大利亚天主教大学%3008
+カーティン工科大学%3027
+墨尔本皇家理工大学%3014
+ジェームスクック大学%3020
+ニューキャッスル大学%3026
+アボンデールカレッジ%3028
+西オーストラリア大学%3004
+クイーンズランド大学%3040
+南オーストラリア大学%3007
+ノーザンテリトリー大学%3038
+エディス・コーワン大学%3001
+オーストラリア国立大学%3035
+スウィンバーン工科大学%3015
+ニューイングランド大学%3025
+クイーンズランド工科大学%3039
+チャールズ・スタート大学%3037
+サンシャインコースト大学%3023
+サザンクイーンズランド大学%3022
+ニューサウスウェールズ大学%3030
+オーストラリアンカソリック大学%3008
+セントラル・クイーンズランド大学%3021
+オーストラリア、ノートルダム大学%3003
+Australian Catholic University%3008
+Australian National University%3035
+Avondale College%3028
+Bond University%3019
+Charles Sturt University%3037
+Curtin University of Technology%3027
+Deakin University%3018
+Edith Cowan University%3001
+Flinders University%3006
+Griffith University%3010
+James Cook University%3020
+La Trobe University%3011
+Macquarie University%3029
+Monash University%3012
+Murdoch University%3002
+Northern Territory University%3038
+Queensland University of Technology%3039
+RMIT University%3014
+RMIT大学%3014
+Southern Cross University%3024
+Swinburne University of Technology%3015
+University of Adelaide%3005
+University of Ballarat%3009
+University of Canberra%3036
+University of Central Queensland%3021
+University of Mellbourne%3013
+University of New England%3025
+University of New South Wales%3030
+University of Newcastle%3026
+University of Notre Dame Australia%3003
+University of Queensland%3040
+University of South Australia%3007
+University of Southern Queensland%3022
+University of Sunshine Coast%3023
+University of Sydney%3031
+University of Tasmania%3017
+University of Technology, Sydney%3034
+University of Western Australia%3004
+University of Western Sydney%3032
+University of Wollongong%3033
+Victoria University%3016

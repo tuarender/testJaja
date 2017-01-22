@@ -1,0 +1,61 @@
+贝茨学院%6419
+比尔学院%6420
+赫森大学%6407
+鲍登学院%6404
+缅因大学%6412
+多佛学院%6418
+缅因大学-法明顿校区%6413
+缅因大学-玛基亚斯校区%6415
+缅因大学-福特肯特校区%6414
+缅因大学-奥古斯塔校区%6430
+缅因大学-普雷斯克岛校区%6431
+尤尼蒂学院%6411
+南缅因大学%6417
+大西洋学院%6406
+托马斯学院%6429
+科尔比学院%6405
+缅因海事学院%6409
+新英格兰大学%6416
+缅因艺术学院%6408
+米斯州立学院%6425
+圣约瑟夫学院%6410
+南缅因技术学院%6428
+约克郡技术学院%6433
+北缅因技术学院%6427
+东缅因技术学院%6423
+华盛顿郡技术学院%6432
+新英格兰通讯学校%6426
+中央缅因技术学院%6422
+肯内贝克谷技术学院%6424
+中央缅因州医学护理中心学院%6421
+Andover College%6418
+Bates College%6419
+Beal College%6420
+Bowdoin College%6404
+Central Maine Medical Center School of Nursing%6421
+Central Maine Technical College%6422
+Colby College%6405
+College of the Atlantic%6406
+Eastern Maine Technical College%6423
+Husson College%6407
+Kennebec Valley Technical College%6424
+Maine College of Art%6408
+Maine Maritime Academy%6409
+Mis-State College%6425
+New England School of Communications%6426
+Northern Maine Technical College%6427
+Saint Joseph%6410
+Saint Joseph's College%6410
+Southern Maine Technical College%6428
+The University of Maine at Augusta%6430
+Thomas College%6429
+Unity College%6411
+University of Maine%6412
+University of Maine at Farmington%6413
+University of Maine at Fortr Kent%6414
+University of Maine at Machias%6415
+University of Maine at Presque lsle%6431
+University of New England%6416
+University of Southern Maine%6417
+Washington County Technical College%6432
+York County Technical College%6433

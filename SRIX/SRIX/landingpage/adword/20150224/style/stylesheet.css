@@ -1,0 +1,443 @@
+	
+	
+	
+	body {
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+
+
+	}
+
+
+	.h0 {
+		line-height: 0px;
+	}
+	.blue {
+		color: #035a9f;
+		font: 20px/30px tahoma;
+	}
+	.black20normal {
+		font: 500 normal 20px tahoma;
+	}
+	.location2 {
+		color: #0d203f;
+		font: 500 normal 20px tahoma;
+	}
+	.location2mobile {
+		color: #0d203f;
+		font: 500 normal 17px tahoma;
+	}
+	.black20 {
+		font: 900 normal 20px tahoma;
+	}
+	.location4 {
+		color:#005490;
+		font: 900 normal 20px tahoma;
+	}
+	.black23 {
+		font: 900 normal 23px tahoma;
+	}
+	.location5 {
+		color:#005b9d;
+		font: 900 normal 23px tahoma;
+	}
+	.redtrue19 {
+		color: #cf2027;
+		font: 900 normal 19px tahoma;
+	}
+	.redtrue20 {
+		color: #cf2027;
+		font: 900 normal 20px tahoma;
+	}
+	.redtrue23 {
+		color: #cf2027;
+		font: 900 normal 23px tahoma;
+	}
+	.location1 {
+		color: #7f132b;
+		font: 900 normal 23px tahoma;
+	}
+	.red {
+		color: #7d313e;
+		font: 900 normal 23px tahoma;
+	}
+	.red23 {
+		color: #7d313e;
+		font: 900 normal 23px tahoma;
+	}
+	.red20 {
+		color: #7d313e;
+		font: 900 normal 20px tahoma;
+	}
+	
+	.red20normal {
+		color: #7d313e;
+		font: 500 normal 20px tahoma;
+	}
+	.red18 {
+		color: #7d313e;
+		font: 900 normal 18px tahoma;
+	}
+	.red18normal {
+		color: #7d313e;
+		font: 400 normal 18px tahoma;
+	}
+	.red17normal {
+		color: #7d313e;
+		font: 400 normal 17px tahoma;
+	}
+	.red15normal {
+		color: #7d313e;
+		font: 400 normal 15px tahoma;
+	}
+	.red16 {
+		color: #7d313e;
+		font: 900 normal 16px tahoma;
+	}
+	
+	.orot23 {
+		color: #df6b63;
+		font: 900 normal 23px tahoma;
+	}
+	.orot20 {
+		color: #df6b63;
+		font: 900 normal 20px tahoma;
+	}
+	.yellow23 {
+		color: #fec816;
+		font: 900 normal 23px tahoma;
+	}
+	.yellow20 {
+		color: #fec816;
+		font: 400 normal 20px tahoma;
+	}
+	.darkyellow23 {
+		color: #f8c83e;
+		font: 900 normal 23px tahoma;
+	}
+	.darkyellow20 {
+		color: #f8c83e;
+		font: 400 normal 20px tahoma;
+	}
+	.darkyellow15 {
+		color: #ffc913;
+		font: 900 normal 15px tahoma;
+	}
+	.darkyellow13 {
+		color: #ffc913;
+		font: 900 normal 13px tahoma;
+	}
+	
+	.green25 {
+		color: #b8d773;
+		font: 900 normal 25px tahoma;
+	}
+	.green26 {
+		color: #b8d773;
+		font: 900 normal 26px tahoma;
+	}
+	.green23 {
+		color: #b8d773;
+		font: 900 normal 23px tahoma;
+	}
+	.green20 {
+		color: #b8d773;
+		font: 400 normal 20px tahoma;
+	}
+	.green21bold {
+		color: #b8d773;
+		font: 500 normal 20px tahoma;
+	}
+	.green19bold {
+		color: #b8d773;
+		font: 500 normal 19px tahoma;
+	}
+	.blue23 {
+		color: #035a9f;
+		font: 900 normal 23px tahoma;
+	}
+	.blue20 {
+		color: #035a9f;
+		font: 400 normal 20px tahoma;
+	}
+	.blue18 {
+		color: #035a9f;
+		font: 400 normal 18px tahoma;
+	}
+	.brown23 {
+		color: #5a3e38;
+		font: 900 normal 23px tahoma;
+	}
+	.brown20 {
+		color: #5a3e38;
+		font: 400 normal 20px tahoma;
+	}
+	.brown18 {
+		color: #5a3e38;
+		font: 400 normal 18px tahoma;
+	}
+	.brown {
+		color: #5a3e38;
+		font: 400 19px/28px tahoma;
+	}
+	.gray1 {
+		color: #666666;
+		font: 18px/24px tahoma;
+	}
+	.gray23 {
+		color: #666666;
+		font: 900 normal 23px tahoma;
+	}
+	.gray20 {
+		color: #666666;
+		font: 400 normal 20px tahoma;
+	}
+	.gray18 {
+		color: #666666;
+		font: 400 normal 18px tahoma;
+	}
+	.greenyellow23 {
+		color: #d9e589;
+		font: 900 normal 23px tahoma;
+	}
+	.greenyellow20 {
+		color: #d9e589;
+		font: 400 normal 20px tahoma;
+	}
+	.greenyellow18 {
+		color: #d9e589;
+		font: 400 normal 18px tahoma;
+	}
+	.white23 {
+		color: #ffffff;
+		font: 900 normal 23px tahoma;
+	}
+	.white25 {
+		color: #ffffff;
+		font: 900 normal 25px tahoma;
+	}
+	.white26 {
+		color: #ffffff;
+		font: 900 normal 26px tahoma;
+	}
+	.white20 {
+		color: #ffffff;
+		font: 400 normal 20px tahoma;
+	}
+	.white18 {
+		color: #ffffff;
+		font: 400 normal 18px tahoma;
+	}
+	.location3 {
+		color: #005490;
+		font: 400 normal 18px tahoma;
+	}
+	.white15 {
+		color: #ffffff;
+		font: 400 normal 15px tahoma;
+	}
+	.white13 {
+		color: #ffffff;
+		font: 400 normal 13px tahoma;
+	}
+	.seablue23 {
+		color: #cdebf3;
+		font: 900 normal 23px tahoma;
+	}
+	.seablue20 {
+		color: #cdebf3;
+		font: 400 normal 20px tahoma;
+	}
+	.seablue18 {
+		color: #cdebf3;
+		font: 400 normal 18px tahoma;
+	}
+	.indred23 {
+		color: #8a172c;
+		font: 900 normal 23px tahoma;
+	}
+	.it1 {
+		color: #b02046;
+		font: 900 normal 23px tahoma;
+	}
+	.indred20 {
+		color: #8a172c;
+		font: 400 normal 20px tahoma;
+	}
+	.indred18 {
+		color: #8a172c;
+		font: 400 normal 18px tahoma;
+	}
+	.lightblue23 {
+		color: #aad4d7;
+		font: 900 normal 23px tahoma;
+	}
+	.lightblue20 {
+		color: #aad4d7;
+		font: 400 normal 20px tahoma;
+	}
+	.lightblue18 {
+		color: #aad4d7;
+		font: 400 normal 18px tahoma;
+	}
+	.darkblue23 {
+		color: #3b5763;
+		font: 900 normal 23px tahoma;
+	}
+	.darkblue20 {
+		color: #3b5763;
+		font: 400 normal 20px tahoma;
+	}
+	.it2 {
+		color: #0e4c87;
+		font: 400 normal 20px tahoma;
+	}
+	.darkblue18 {
+		color: #3b5763;
+		font: 400 normal 18px tahoma;
+	}
+	
+	.darkdarkblue23 {
+		color: #353d51;
+		font: 900 normal 23px tahoma;
+	}
+	.darkdarkblue20 {
+		color: #353d51;
+		font: 400 normal 20px tahoma;
+	}
+	.darkdarkblue18 {
+		color: #353d51;
+		font: 400 normal 18px tahoma;
+	}
+	.darkdarkblue16 {
+		color: #353d51;
+		font: 900 normal 16px tahoma;
+	}
+	
+	.cream23 {
+		color: #f6bda6;
+		font: 900 normal 23px tahoma;
+	}
+	.cream20 {
+		color: #f6bda6;
+		font: 400 normal 20px tahoma;
+	}
+	.cream18 {
+		color: #f6bda6;
+		font: 400 normal 18px tahoma;
+	}
+	.cream17 {
+		color: #f6bda6;
+		font: 400 normal 17px tahoma;
+	}
+	.creamy23 {
+		color: #eae1d1;
+		font: 900 normal 23px tahoma;
+	}
+	.creamy20 {
+		color: #eae1d1;
+		font: 400 normal 20px tahoma;
+	}
+	.creamy18 {
+		color: #eae1d1;
+		font: 400 normal 18px tahoma;
+	}
+	.it4 {
+		color: #ffffff;
+		font: 400 normal 18px tahoma;
+	}
+	.creamy17 {
+		color: #eae1d1;
+		font: 400 normal 17px tahoma;
+	}
+	.itmobile4 {
+		color: #ffffff;
+		font: 400 normal 17px tahoma;
+	}
+	.pinky18 {
+		color: #e66a66;
+		font: 400 normal 18px tahoma;
+	}
+	.pinky17 {
+		color: #e66a66;
+		font: 400 normal 17px tahoma;
+	}
+	
+	.pinki15 {
+		color: #FF6E8C;
+		font: 900 normal 15px tahoma;
+	}
+	.pinki13 {
+		color: #FF6E8C;
+		font: 900 normal 13px tahoma;
+	}
+	.orange23 {
+		color: #f58663;
+		font: 900 normal 23px tahoma;
+	}
+	.orange20 {
+		color: #f58663;
+		font: 400 normal 20px tahoma;
+	}
+	.orange18 {
+		color: #f58663;
+		font: 400 normal 18px tahoma;
+	}
+	.greeny23 {
+		color: #4b563e;
+		font: 900 normal 23px tahoma;
+	}
+	.greeny20 {
+		color: #4b563e;
+		font: 400 normal 20px tahoma;
+	}
+	.greeny18 {
+		color: #4b563e;
+		font: 400 normal 18px tahoma;
+	}
+	.greeny16 {
+		color: #4b563e;
+		font: 900 normal 16px tahoma;
+	}
+	.itmobile2 {
+		color: #0e4c87;
+		font: 900 normal 16px tahoma;
+	}
+	.greengreen23{
+		color:#cede9b;
+		font:900 normal 23px tahoma;
+	}
+	.it3{
+		color:#ca9831;
+		font:900 normal 23px tahoma;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	.banner{
+		width:100%;
+		max-width: 843px;
+	}
+
+
+	
+	.header{
+		/*background-color: green;*/
+		background-image: url("../images/vichien.jpg");
+		background-position: left;
+		background-repeat: no-repeat;
+	}
+
+/*	.container {
+		min-width: 480px;
+	}
+*/

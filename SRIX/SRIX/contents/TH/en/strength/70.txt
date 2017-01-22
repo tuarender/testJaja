@@ -1,0 +1,7 @@
+<u><b>Example1</b></u>
+<br>
+When something wrong has taken place, I always want to find out why. As a systems analyst, I’m always faced with the task of figuring what goes wrong when a system fails. One time, a major production machine broke down during the fill of a massive order. The problem put production back by two weeks and cost the company lots of money. I immediately investigated the situation, analyzing what was going on before and after the break down, examining the machine and its pieces to try a spot any quality issues. After three arduous days of investigation, I was able to find out why the machine broke down. Because of the my investigative nature, I was able to solve the terrible problem and help prevent future negative occurrences in the future.
+<br><br>
+<u><b>Example2</b></u>
+<br>
+In my current position as a computer technician, clients frequently present me with many problems that I can theoretically handle with quick-fix solutions. For example, if a software program isn’t working, I could simply delete and reload the program, or if the hardware seems to be malfunctioning, I could simply replace the motherboard. However, I prefer to spend more time on my clients’ problems, to investigate precisely where the malfunction is located and what all the possible solutions may be. By doing this, I become more familiar with the software and hardware I work with, and therefore a better, more skilled technician.

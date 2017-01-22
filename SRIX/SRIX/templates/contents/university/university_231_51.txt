@@ -1,0 +1,21 @@
+Casper College%11855
+Central Wyoming College%11856
+Eastern Wyoming College%10001
+Laramie County Community College%10002
+Northwest College%10003
+Sheridan College%10004
+University of Wyoming%11854
+Western Wyoming Community College%10005
+Wyoming Technical Institute%10006
+キャスパーカレッジ%11855
+セントラルワイオミングカレッジ%11856
+ワイオミング大学%11854
+东怀俄明大学%10001
+中央怀俄明学院%11856
+卡斯帕尔学院%11855
+怀俄明大学%11854
+怀俄明州技术学院%10006
+拉勒米郡社区学院%10002
+西北学院%10003
+西怀俄明州社区学院%10005
+谢里丹学院%10004

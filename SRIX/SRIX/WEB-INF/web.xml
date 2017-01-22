@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+	<taglib>
+      <taglib-uri>/pd4ml</taglib-uri>
+      <taglib-location>/WEB-INF/pd4ml.tld</taglib-location>
+    </taglib>
+	<context-param>
+		<param-name>javax.servlet.jsp.jstl.fmt.localizationContext</param-name>	
+		<param-value>com.topgun.properties.language</param-value>
+	</context-param>
+	
+	
+	<servlet>
+		<servlet-name>SRIXServ</servlet-name>
+		<servlet-class>javax.topgun.resume.SRIXServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpServlet</servlet-class>
+	</servlet>	
+
+	<servlet>
+		<servlet-name>AjaxServ</servlet-name>
+		<servlet-class>javax.topgun.ajax.AjaxServ</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>EducationServ</servlet-name>
+		<servlet-class>javax.topgun.resume.EducationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>LogonServ</servlet-name>
+		<servlet-class>javax.topgun.resume.LogonServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>LogoutServ</servlet-name>
+		<servlet-class>javax.topgun.resume.LogoutServlet</servlet-class>
+	</servlet>	
+
+	<servlet>
+		<servlet-name>PropertyServ</servlet-name>
+		<servlet-class>javax.topgun.resume.PropertyServlet</servlet-class>
+	</servlet>	
+	
+	<servlet>
+		<servlet-name>PersonalDataServ</servlet-name>
+		<servlet-class>javax.topgun.resume.PersonalDataServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>RegisterServ</servlet-name>
+		<servlet-class>javax.topgun.resume.RegisterServlet</servlet-class>
+	</servlet>	
+
+	<servlet>
+		<servlet-name>TargetJobServ</servlet-name>
+		<servlet-class>javax.topgun.resume.TargetJobServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>TargetJobTypeServ</servlet-name>
+		<servlet-class>javax.topgun.resume.TargetJobTypeServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>TargetJobFieldServ</servlet-name>
+		<servlet-class>javax.topgun.resume.TargetJobFieldServlet</servlet-class>
+	</servlet>			
+
+	<servlet>
+		<servlet-name>TargetIndustryServ</servlet-name>
+		<servlet-class>javax.topgun.resume.TargetIndustryServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>TargetLocationServ</servlet-name>
+		<servlet-class>javax.topgun.resume.TargetLocationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>TargetOutsideLocationServ</servlet-name>
+		<servlet-class>javax.topgun.resume.TargetOutsideLocationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>TargetJobUpdateServ</servlet-name>
+		<servlet-class>javax.topgun.resume.TargetJobUpdateServlet</servlet-class>
+	</servlet>	
+			
+	<servlet>
+		<servlet-name>AptitudeServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AptitudeServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>AutoCompleteServ</servlet-name>
+		<servlet-class>javax.topgun.ajax.AutoCompleteServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ExperienceServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ExperienceServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>ExperienceEditServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ExperienceEditServlet</servlet-class>
+	</servlet>
+		
+	<servlet>
+		<servlet-name>SkillLanguageServ</servlet-name>
+		<servlet-class>javax.topgun.resume.SkillLanguageServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>SkillComputerServ</servlet-name>
+		<servlet-class>javax.topgun.resume.SkillComputerServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>StrengthServ</servlet-name>
+		<servlet-class>javax.topgun.resume.StrengthServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>AptitudeRankServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AptitudeRankServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>AptitudeLevelServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AptitudeLevelServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>AptitudeExtensionServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AptitudeExtensionServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>TrainingServ</servlet-name>
+		<servlet-class>javax.topgun.resume.TrainingServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>AwardServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AwardServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>CertificateServ</servlet-name>
+		<servlet-class>javax.topgun.resume.CertificateServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ActivityServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ActivityServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>AdditionalInfoServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AdditionalInfoServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>AdditionalServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AdditionalServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>ReferenceServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ReferenceServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>FamilyServ</servlet-name>
+		<servlet-class>javax.topgun.resume.FamilyServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>CareerServ</servlet-name>
+		<servlet-class>javax.topgun.resume.CareerServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>UploadPhotoServ</servlet-name>
+		<servlet-class>javax.topgun.resume.UploadPhotoServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>NamingServ</servlet-name>
+		<servlet-class>javax.topgun.resume.NamingServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ForgotPasswordServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ForgotPasswordServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ApplyServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ApplyServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>ApplyAllServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ApplyAllServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>ApplyIOSServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ApplyIOSServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>CancelServlet</servlet-name>
+		<servlet-class>javax.topgun.resume.CancelServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>JobUpdateServlet</servlet-name>
+		<servlet-class>javax.topgun.resume.JobUpdateServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>JobMatchServlet</servlet-name>
+		<servlet-class>javax.topgun.resume.JobMatchServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>MailRegisterServlet</servlet-name>
+		<servlet-class>javax.topgun.resume.MailRegisterServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>DownloadServ</servlet-name>
+		<servlet-class>javax.topgun.resume.DownloadServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>ViewResume</servlet-name>
+		<jsp-file>/view/viewResume.jsp</jsp-file>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>AccountServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AccountServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpAptitudeServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpAptitudeServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpAptitudeLevelServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpAptitudeLevelServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpLogonServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpLogonServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpEducationServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpEducationServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpExperienceServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpExperienceServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpWorkInfoServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpWorkInfoServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpRegisterServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpRegisterServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>CheckUpForgotServ</servlet-name>
+		<servlet-class>javax.topgun.competency.CheckUpForgotServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>NonMemberServ</servlet-name>
+		<servlet-class>javax.topgun.resume.NonMemberServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>ForwardEmail</servlet-name>
+		<servlet-class>javax.topgun.resume.ForwardEmail</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>JSONServ</servlet-name>
+		<servlet-class>javax.topgun.ajax.JSONServ</servlet-class>
+	</servlet>
+	<servlet>
+    	<servlet-name>SRTSServ</servlet-name>
+    	<servlet-class>javax.topgun.resume.SRTSServlet</servlet-class>
+  	</servlet>
+  	<servlet>
+    	<servlet-name>StudentLogonServ</servlet-name>
+    	<servlet-class>javax.topgun.resume.StudentLogonServlet</servlet-class>
+  	</servlet>
+  	<servlet>
+    	<servlet-name>ResumeFullFillServ</servlet-name>
+    	<servlet-class>javax.topgun.resume.ResumeFullFillServlet</servlet-class>
+  	</servlet>
+
+	<servlet>
+		<servlet-name>SRIXImage</servlet-name>
+		<servlet-class>javax.topgun.resume.SRIXImage</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>ForgotPasswordNewServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ForgotPasswordNewServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>AppsUploadServ</servlet-name>
+		<servlet-class>javax.topgun.resume.AppsUploadServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>SyncResumeServ</servlet-name>
+		<servlet-class>javax.topgun.resume.SyncResumeServlet</servlet-class>
+	</servlet>
+	
+	
+	<servlet-mapping>
+		<servlet-name>ViewResume</servlet-name>
+		<url-pattern>/ViewResume</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>SRIXServ</servlet-name>
+		<url-pattern>/SRIX</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>CheckUpServ</servlet-name>
+		<url-pattern>/CheckUp</url-pattern>
+	</servlet-mapping>
+		
+	<servlet-mapping>
+		<servlet-name>AjaxServ</servlet-name>
+		<url-pattern>/AjaxServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>EducationServ</servlet-name>
+		<url-pattern>/EducationServ</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>PersonalDataServ</servlet-name>
+		<url-pattern>/PersonalDataServ</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>PersonalDataServ</servlet-name>
+		<url-pattern>/PersonalDataServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>RegisterServ</servlet-name>
+		<url-pattern>/RegisterServ</url-pattern>
+	</servlet-mapping>	
+	<servlet-mapping>
+		<servlet-name>TargetJobServ</servlet-name>
+		<url-pattern>/TargetJobServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>TargetJobTypeServ</servlet-name>
+		<url-pattern>/TargetJobTypeServ</url-pattern>
+	</servlet-mapping>	
+
+	<servlet-mapping>
+		<servlet-name>TargetJobFieldServ</servlet-name>
+		<url-pattern>/TargetJobFieldServ</url-pattern>
+	</servlet-mapping>	
+
+	<servlet-mapping>
+		<servlet-name>TargetIndustryServ</servlet-name>
+		<url-pattern>/TargetIndustryServ</url-pattern>
+	</servlet-mapping>	
+
+	<servlet-mapping>
+		<servlet-name>TargetLocationServ</servlet-name>
+		<url-pattern>/TargetLocationServ</url-pattern>
+	</servlet-mapping>	
+	
+	<servlet-mapping>
+		<servlet-name>TargetOutsideLocationServ</servlet-name>
+		<url-pattern>/TargetOutsideLocationServ</url-pattern>
+	</servlet-mapping>		
+
+	<servlet-mapping>
+		<servlet-name>TargetJobUpdateServ</servlet-name>
+		<url-pattern>/TargetJobUpdateServ</url-pattern>
+	</servlet-mapping>	
+				
+	<servlet-mapping>
+		<servlet-name>AptitudeServ</servlet-name>
+		<url-pattern>/AptitudeServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AutoCompleteServ</servlet-name>
+		<url-pattern>/AutoCompleteServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ExperienceServ</servlet-name>
+		<url-pattern>/ExperienceServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ExperienceEditServ</servlet-name>
+		<url-pattern>/ExperienceEditServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>LogonServ</servlet-name>
+		<url-pattern>/LogonServ</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>LogoutServ</servlet-name>
+		<url-pattern>/LogoutServ</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>PropertyServ</servlet-name>
+		<url-pattern>/PropertyServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>SkillLanguageServ</servlet-name>
+		<url-pattern>/SkillLanguageServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>SkillComputerServ</servlet-name>
+		<url-pattern>/SkillComputerServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>StrengthServ</servlet-name>
+		<url-pattern>/StrengthServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AptitudeRankServ</servlet-name>
+		<url-pattern>/AptitudeRankServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AptitudeLevelServ</servlet-name>
+		<url-pattern>/AptitudeLevelServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AptitudeExtensionServ</servlet-name>
+		<url-pattern>/AptitudeExtensionServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>TrainingServ</servlet-name>
+		<url-pattern>/TrainingServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AwardServ</servlet-name>
+		<url-pattern>/AwardServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>CertificateServ</servlet-name>
+		<url-pattern>/CertificateServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ActivityServ</servlet-name>
+		<url-pattern>/ActivityServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AdditionalInfoServ</servlet-name>
+		<url-pattern>/AdditionalInfoServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AdditionalServ</servlet-name>
+		<url-pattern>/AdditionalServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ReferenceServ</servlet-name>
+		<url-pattern>/ReferenceServ</url-pattern>
+	</servlet-mapping>
+		
+	<servlet-mapping>
+		<servlet-name>FamilyServ</servlet-name>
+		<url-pattern>/FamilyServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>CareerServ</servlet-name>
+		<url-pattern>/CareerServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>UploadPhotoServ</servlet-name>
+		<url-pattern>/UploadPhotoServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>NamingServ</servlet-name>
+		<url-pattern>/NamingServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ForgotPasswordServ</servlet-name>
+		<url-pattern>/ForgotPasswordServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ApplyServ</servlet-name>
+		<url-pattern>/ApplyServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ApplyAllServ</servlet-name>
+		<url-pattern>/ApplyAllServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ApplyIOSServ</servlet-name>
+		<url-pattern>/ApplyIOSServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CancelServlet</servlet-name>
+		<url-pattern>/CancelServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>JobUpdateServlet</servlet-name>
+		<url-pattern>/JobUpdateServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>JobMatchServlet</servlet-name>
+		<url-pattern>/JobMatchServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>MailRegisterServlet</servlet-name>
+		<url-pattern>/MailRegisterServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>DownloadServ</servlet-name>
+		<url-pattern>/DownloadServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>AccountServ</servlet-name>
+		<url-pattern>/AccountServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CheckUpAptitudeServ</servlet-name>
+		<url-pattern>/CheckUpAptitudeServ</url-pattern>
+	</servlet-mapping>	 	
+	<servlet-mapping>
+		<servlet-name>CheckUpAptitudeLevelServ</servlet-name>
+		<url-pattern>/CheckUpAptitudeLevelServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CheckUpLogonServ</servlet-name>
+		<url-pattern>/CheckUpLogonServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CheckUpEducationServ</servlet-name>
+		<url-pattern>/CheckUpEducationServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CheckUpExperienceServ</servlet-name>
+		<url-pattern>/CheckUpExperienceServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CheckUpWorkInfoServ</servlet-name>
+		<url-pattern>/CheckUpWorkInfoServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CheckUpRegisterServ</servlet-name>
+		<url-pattern>/CheckUpRegisterServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CheckUpForgotServ</servlet-name>
+		<url-pattern>/CheckUpForgotServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>NonMemberServ</servlet-name>
+		<url-pattern>/NonMemberServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ForwardEmail</servlet-name>
+		<url-pattern>/ForwardEmail</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>JSONServ</servlet-name>
+		<url-pattern>/JSONServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>SRTSServ</servlet-name>
+		<url-pattern>/SRTSServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>StudentLogonServ</servlet-name>
+		<url-pattern>/StudentLogonServ</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ResumeFullFillServ</servlet-name>
+		<url-pattern>/ResumeFullFillServ</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>SRIXImage</servlet-name>
+		<url-pattern>/SRIXImage</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>ForgotPasswordNewServ</servlet-name>
+		<url-pattern>/ForgotPasswordNewServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>AppsUploadServ</servlet-name>
+		<url-pattern>/AppsUploadServ</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>SyncResumeServ</servlet-name>
+		<url-pattern>/SyncResumeServ</url-pattern>
+	</servlet-mapping>
+	
+	<welcome-file-list>
+		<welcome-file>default.jsp</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>

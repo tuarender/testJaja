@@ -1,0 +1,183 @@
+Adrian College%6990
+Albion College%7021
+Alma College%6992
+Alpena Community College%7011
+Andrews University%7043
+Aquinas College%7023
+Ave Maria College%6994
+Baker College of Auburn Hills%7044
+Baker College of Cadillac%7045
+Baker College of Clinton Township%7015
+Baker College of Flint%7047
+Baker College of Jackson%7018
+Baker College of Muskegon%7049
+Baker College of Owosso%7050
+Baker College of Port Huron%7051
+Bay Mills Community College%7053
+Bay de Noc Community College%7052
+Calvin College%7025
+Central Michigan University%7054
+Cleary University%6996
+College for Creative Studies%7027
+Concordia  University%7055
+Cornerstone University%7056
+Davenport University%7057
+Delta College%7058
+Eastern Michigan University%7059
+Ferris State University%6998
+Finlandia University%6999
+Glen Oaks Community College%7060
+Gogebic Community College%7061
+Grace Bible College%7062
+Grand Rapids Community College%7063
+Grand Valley State University%7064
+Great Lakes Christian College%7065
+Henry Ford Community College%7066
+Hillsdale College%7000
+Hope College%7032
+ITT Technical Institute%7067
+ITT技术研究所%7067
+Jackson Communiity College%7068
+Kalamaoo College%7069
+Kalamazoo Valley Communiity College%7070
+Kellogg Community College%7071
+Kendall College of Art and Design of Ferris State University%7072
+Kettering University%7001
+Kirtland Communiity College%7073
+Lake Michigan College%7074
+Lake Superior State University%7104
+Lansing Community College%7076
+Lawrence Technological University%7002
+Lewis College of Business%7106
+Macomb Community College%7107
+Madonna University%7079
+Marygrove College%7034
+Michigan State University%7035
+Michigan Technological University%7080
+Mid Michigan Community College%7110
+Monroe County Community College%7111
+Montcalm Community College%7112
+Mott Community College%7084
+Muskegon Community College%7114
+North Central Michigan College%7115
+Northern Michigan University%7116
+Northwestern Michigan College%7117
+Northwood University%7005
+Oakland Community College%7118
+Oakland University%7006
+Olivet College%7007
+Reformed Bible College%7119
+Rochester College%7120
+Sacred Heart Major Seminary%7091
+Saginaw Valley State University%7122
+Saint Mary%7008
+Saint Mary's College of Ave Maria University%7008
+Schoolcraft College%7124
+Siena Heights University%7009
+Southwestern Michigan College%7125
+Spring Arbor University%7126
+St. Clair County Community College%7093
+University of Detroit Mercy%7127
+University of Michigan%7098
+University of Michigan-Dearborn%7129
+University of Michigan-Flint%7100
+University of Phoenix-Metro Detroit Campus%7101
+University of Phoenix-West Michigan Campus%7102
+Walsh College of Accountancy and Business Administration%7133
+Washtenaw Community College%7134
+Wayne County Community College District%7135
+Wayne State University%7136
+West Shore Community College%7137
+Western Michigan University%7041
+William Tyndale College%7138
+Yeshiva Geddolah of Greater Detroit Rabbinical College%7139
+东密歇根大学%7059
+中密歇根大学%7054
+中密西根社区学院%7110
+亨利福特社区学院%7066
+休伦港贝克学院%7051
+克利大学%6996
+克林顿镇贝克学院%7015
+兰辛社区学院%7076
+凤凰城大学-底特律校区%7101
+凤凰城大学-西密歇根校区%7102
+凯洛格社区学院%7071
+凯特林大学%7001
+凯迪拉克贝克学院%7045
+刘易斯商学院%7106
+创意研究学院%7027
+劳伦斯科技大学%7002
+北中部密歇根大学%7115
+北密歇根大学%7116
+卡尔文学院%7025
+卡拉马祖学院%7069
+卡拉马祖谷社区学院%7070
+哥吉比克社区学院%7061
+圣克莱尔郡社区大学%7093
+圣心大修院%7091
+圣玛丽大学圣母颂学院%7008
+基石大学%7056
+大急流城社区大学%7063
+大湖基督教学院%7065
+奥克兰大学%7006
+奥克兰社区学院%7118
+奥利韦学院%7007
+奥本山贝克学院%7044
+奥沃索贝克学院%7050
+威廉廷达勒学院%7138
+安德鲁斯大学%7043
+密歇根大学-弗林特校区%7100
+密歇根州立大学%7035
+密歇根湖学院%7074
+密歇根理工大学%7080
+密西根大学%7098
+希尔斯代尔学院%7000
+底特律默西大学%7127
+弗林特贝克学院%7047
+归正神学院%7119
+德尔塔学院%7058
+斯库尔学院%7124
+斯普林阿伯大学%7126
+杰克逊社区学院%7068
+杰克逊贝克学院%7018
+柯特兰社区学院%7073
+格伦奥克斯社区学院%7060
+格兰谷州立大学%7064
+格雷斯神学院%7062
+沃什特诺社区学院%7134
+沃尔什会计及工商管理学院%7133
+玛丽格罗夫学院%7034
+米尔斯湾社区学院%7053
+罗切斯特学院%7120
+美国圣母大学%7079
+美国密歇根大学（迪尔伯恩校区）%7129
+耶希瓦戈达拉大底特律犹太教学院%7139
+肯考迪亚大学%7055
+艾德里安学院%6990
+芬兰迪亚大学%6999
+苏必利尔湖大学%7104
+莫特社区学院%7084
+萨吉诺谷州立大学%7122
+蒙卡尔姆社区学院%7112
+西北密歇根学院%7117
+西南密歇根学院%7125
+西密歇根大学%7041
+西肖尔社区学院%7137
+诺克湾社区学院%7052
+诺斯伍德大学%7005
+费里斯州立大学%6998
+费里斯州立大学肯德尔艺术与设计学院%7072
+达文波特大学%7057
+锡耶纳海茨大学%7009
+门罗郡社区学院%7111
+阿夫玛丽亚大学%6994
+阿奎那学院%7023
+阿尔比恩学院%7021
+阿尔玛学院%6992
+阿尔皮纳社区学院%7011
+霍普学院%7032
+韦恩州立大学%7136
+韦恩郡社区学院%7135
+马斯基根社区学院%7114
+马斯基根贝克学院%7049
+马科姆社区学院%7107

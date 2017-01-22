@@ -1,0 +1,30 @@
+東北大学%21704
+宮城大学%21710
+仙台大学%21700
+東北薬科大学%21707
+東北学院大学%21701
+東北福祉大学%21705
+宮城教育大学%21709
+東北工業大学%21702
+尚絅学院大学%21698
+石巻専修大学%21711
+東北文化学園大学%21706
+宮城学院女子大学%21708
+東北生活文化大学%21703
+仙台白百合女子大学%21699
+Ishinomaki Senshu University%21711
+Miyagi Gakuin Women%21708
+Miyagi Gakuin Women's College%21708
+Miyagi University%21710
+Miyagi University of Education%21709
+Sendai College%21700
+Sendai Shirayuri Women%21699
+Sendai Shirayuri Women's College%21699
+Shokei Gakuin University%21698
+Tohoku Bunka Gakuen University%21706
+Tohoku College of Pharmacy%21707
+Tohoku Fukushi University%21705
+Tohoku Gakuin University%21701
+Tohoku Institute of Technology%21702
+Tohoku Seikatsu Bunka College%21703
+Tohoku University%21704

@@ -1,0 +1,369 @@
+哈丁--西蒙斯大学%8285
+休斯顿-蒂洛森学院%8181
+德州学院%8424
+瑞杰学院%8324
+李伊大学%8193
+莱斯大学%8000
+韦德学院%8014
+威利学院%8463
+内陆学院%8039
+弗农学院%8386
+贝勒大学%7993
+山景学院%8088
+北湖学院%8318
+圣道大学%8013
+西南大学%8406
+三一大学%8009
+德州大学（泰勒）%8448
+金伍德学院%8075
+沿海德大学%8261
+米德兰学院%8198
+达拉斯大学%8234
+赛菲尔学院%8270
+布林恩大学%8028
+纳瓦罗大学%8090
+霍华德大学%8067
+帕诺拉学院%8321
+坦普尔大学%8413
+拉马尔大学%8303
+休斯顿大学%8011
+施赖纳大学%8401
+安伯顿大学%8243
+基尔戈学院%8074
+奥斯汀大学%8216
+德弗里大学%8162
+汤博尔大学%8432
+敖德萨大学%8319
+凤凰城大学--达拉斯沃斯堡校区%8440
+蒙哥马利学院%8087
+中西州立大学%8221
+锡达瓦利大学%8032
+威兰浸会大学%8457
+瑞查兰德学院%8325
+德州整脊学院%8423
+保罗奎恩大学%8099
+莱图尔诺大学%8194
+奥斯汀商学院%8136
+德州女子大学%8232
+德州烹饪学院%8425
+韦瑟福德大学%8458
+维多利亚大学%8456
+格雷森郡书院%8281
+思科初级学院%8035
+北哈里斯学院%8205
+德州理工大学%8231
+巴黎初级学院%8098
+圣爱德华大学%8001
+戴尔马尔学院%8273
+圣菲利普学院%8395
+麦克默里大学%8108
+阿马里洛学院%8130
+圣托马斯大学%8442
+大学技术学院%8366
+西方技术学院%8390
+安吉莉娜学院%8020
+科技边境学院%8029
+泰勒初级学院%8434
+克拉伦登学院%8260
+圣经研究学院（休斯敦）%7994
+得克萨斯大学（奥斯汀）%8444
+得克萨斯大学（埃尔帕索）%8446
+得克萨斯大学（布朗斯维尔）%8445
+得克萨斯大学（圣安东尼奥）%8447
+圣经研究学院--休斯敦%8106
+安盖洛州立大学%8215
+休斯敦艺术学院%8023
+沃顿郡初级学院%8462
+拉马尔技术学院%8076
+西得克萨斯大学%8460
+布鲁克海文学院%8031
+德州大学医学部%8382
+阿尔文社区学院%8017
+三一谷社区大学%8364
+特克萨卡纳学院%8414
+德州基督教大学%8117
+洛恩莫里斯大学%8083
+西南基督教学院%8405
+奥斯汀社区学院%8025
+南普莱恩斯学院%8402
+达拉斯浸会大学%8047
+加尔维斯顿学院%8280
+贾维斯基督学院%8184
+埃尔森特罗学院%8277
+达拉斯艺术学院%8134
+塔尔顿州立大学%8342
+南卫理公会大学%8003
+休斯敦浸会大学%8288
+帕洛阿尔托学院%8320
+计算机职业中心%8154
+圣安东尼奥学院%8397
+霍华德佩恩大学%8292
+杰克逊维尔大学%8183
+北德州社区大学%8092
+克里斯韦尔学院%8045
+拉雷多社区学院%8304
+阿灵顿浸会学院%8133
+拉马尔州立大学--奥兰治%8189
+拉马尔州立大学--阿瑟港%8190
+得克萨斯南方大学%8426
+艾柏林基督教大学%7990
+塔兰特郡地区学院%8343
+北德克萨斯州大学%8439
+浸信会神学院教会%8251
+埃尔帕索社区学院%8278
+联邦丧葬服务学院%8041
+圣托马斯摩尔大学%8150
+达拉斯基督教学院%7995
+西南电子信息大学%8338
+中央得克萨斯学院%8258
+麦克莱南社区学院%8085
+西南德州州立大学%8228
+高级法律研究中心%8033
+布拉佐斯波特学院%8030
+伊斯特菲尔德学院%8275
+航空霍尔马克学院%8171
+上帝大学西南学会%8335
+苏尔罗斯州立大学%8341
+拉伯克基督教大学%8084
+圣安东尼奥圣母大学%8002
+弗兰克菲利普斯学院%8167
+科威特第纳尔工作室%8185
+科林郡社区地区学院%8264
+奥斯汀神学研究生院%8138
+得克萨斯州路德大学%8230
+德州大学阿灵顿校区%8374
+休士顿社区系统学院%8289
+达拉斯丧葬服务学院%8272
+北中部得克萨斯大学%8091
+德州绍斯莫斯特学院%8427
+圣哈辛托学院南校区%8400
+萨姆休斯顿州立大学%8327
+南德克萨斯社区学院%8403
+米斯万斯顿州立大学%7997
+东得克萨斯浸会大学%8276
+霍尔马克科技研究所%8284
+圣哈辛托学院北校区%8399
+德克萨斯州技术学院-西得克萨斯校区%8361
+凤凰城大学休斯顿校区%8441
+休斯顿大学市中心校区%8437
+圣安东尼奥湖夫人大学%8222
+西南得克萨斯初级学院%8339
+圣哈辛托大学中央校区%8329
+希尔大学希尔初级学院%8174
+达拉斯法院记录研究所%8156
+斯蒂芬奥斯汀州立大学%8409
+德克萨斯大学泛美校区%8384
+玛丽哈丁大学贝勒校区%8438
+得克萨斯州卫斯理大学%8431
+德州大学健康科学中心（休斯敦）%8449
+德州大学健康科学中心（圣安东尼奥）%8381
+康科迪亚大学奥斯汀分校%8043
+休斯顿大学克利特湖校区%8436
+得克萨斯大学达拉斯校区%8124
+韦斯特伍德航空技术学院--休斯敦%8015
+韦斯特伍德工业技术研究院（沃思堡）%8240
+得克萨斯大学波米娜盆地校区%8383
+德州大学达拉斯西南医学中心%8385
+诺斯伍德大学德克萨斯州校区%8802
+德克萨斯州立技术学院威科校区%8429
+德克萨斯州立技术学院哈灵根校区%8428
+普雷里维尤A＆M大学%7999
+西得克萨斯A与M大学%8392
+得克萨斯州A与M大学肯摩斯校区%8349
+得克萨斯州A与M大学科珀斯克里斯校区%8350
+得克萨斯A＆M大学（加尔维斯顿）%8417
+德克萨斯A＆M国际大学%8415
+得克萨斯A与M大学%8416
+得克萨斯A与M大学（金斯维尔）%8420
+得克萨斯A与M大学（特克萨卡纳）%8422
+得克萨斯A与M大学健康科学系统中心%8421
+德州A＆M大学盖万斯顿校区%8348
+Abilene Christian University%7990
+Alvin Community College%8017
+Amarillo College%8130
+Amberton University%8243
+Angelina College%8020
+Angelo State University%8215
+Arlington Baptist College%8133
+Austin Business College%8136
+Austin College%8216
+Austin Community College%8025
+Austin Graduate School of Theology%8138
+Baptist Missionary Association Theological Seminary%8251
+Baylor University%7993
+Blinn College%8028
+Border Institute of Technology%8029
+Brazosport College%8030
+Brookhaven College%8031
+Cedar Valley College%8032
+Center for Advanced Legal Studies%8033
+Central Texas College%8258
+Cisco Junior College%8035
+Clarendon College%8260
+Coastal Bend College%8261
+College of Biblical Studies-Houston%8106
+College of Biblkical Studies-Houston%7994
+College of the Mainland%8039
+Collin County Community College District%8264
+Commonwealth Institute of Funeral Service%8041
+Computer Career Center%8154
+Concordia University at Austin%8043
+Court Reporting Institute of Dallas%8156
+Cy-Fair College%8270
+Dallas Baptist University%8047
+Dallas Christian College%7995
+Dallas Institute of Funeral Service%8272
+DeVry University%8162
+Del Mar College%8273
+District%8175
+East Texas Baptist University%8276
+Eastfield College%8275
+El Centro College%8277
+El Paso Community College%8278
+Frank Phillips College%8167
+Galveston College%8280
+Grayson County College%8281
+Hallmark Institue of Aeronautics%8171
+Hallmark Institute of Technology%8284
+Hardin-Simmons University%8285
+Hill College of the Hill Junior College%8174
+Houston Baptist University%8288
+Houston Community College System%8289
+Howard College%8067
+Howard Payne University%8292
+Huston-Tillotson College%8181
+ITT Technical Institute%8294
+ITT技术研究所%8294
+Jacksonville College%8183
+Jarvis Christian College%8184
+KD Studio%8185
+Kilgore College%8074
+Kingwood College%8075
+Lamar Institute of Technology%8076
+Lamar State College-Orange%8189
+Lamar State College-Port Arthur%8190
+Lamar University%8303
+Laredo Community College%8304
+LeTourneau University%8194
+Lee College%8193
+Lon Morris College%8083
+Lubbock Christian University%8084
+MTL商业与技术学院%8201
+MTl College of Business and Technology%8201
+McMurry University%8108
+Mclannan Community College%8085
+Midland College%8198
+Midwestern State University%8221
+Miswestern State University%7997
+Montgomery College%8087
+Mountain View College%8088
+Navarro College%8090
+North Central Texas College%8091
+North Harris College%8205
+North Lake College%8318
+North Texas Community College%8092
+Northwood University, Texas Campus%8802
+Odessa College%8319
+Our Lady of the Lake University of San Antonio%8222
+Palo Alto College%8320
+Panola Colelge%8321
+Paris Junior College%8098
+Paul Quinn College%8099
+Prairie View A&M University%7999
+Ranger College%8324
+Rice University%8000
+Richland College%8325
+Sam Houston State Univeristy%8327
+San Antonio College%8397
+San Jacinto College Central Campus%8329
+San Jacinto College North Campus%8399
+San Jacinto College South Campus%8400
+Schreiner University%8401
+South Plains College%8402
+South Texas Community College%8403
+Southern Methodist University%8003
+Southwest School of Electronics%8338
+Southwest Texas Junior College%8339
+Southwest Texas State University%8228
+Southwestern Assemblies of God University%8335
+Southwestern Christian College%8405
+Southwestern University%8406
+St. Edward%8001
+St. Edward's University%8001
+St. Mary%8002
+St. Mary's University of San Antonio%8002
+St. Philip%8395
+St. Philip's College%8395
+Stephen F. Austin State University%8409
+Sul Ross State University%8341
+Tarleton State University%8342
+Tarrant County College District%8343
+Temple College%8413
+Texarkana College%8414
+Texas A&M International University%8415
+Texas A&M University%8416
+Texas A&M University System Health Sciemce Center%8421
+Texas A&M University at Gaiveston%8348
+Texas A&M University at Galveston%8417
+Texas A&M University-Commerce%8349
+Texas A&M University-Corpus Christi%8350
+Texas A&M University-Kingsville%8420
+Texas A&M University-Texarkana%8422
+Texas Chiropractic College%8423
+Texas Christian University%8117
+Texas College%8424
+Texas Culinary Academy%8425
+Texas Lutheran University%8230
+Texas Southern University%8426
+Texas Southmost College%8427
+Texas State Technical College-Harlingen%8428
+Texas State Technical College-Waco%8429
+Texas State Technical College-West Texas%8361
+Texas Tech University%8231
+Texas Wesleyan University%8431
+Texas Woman%8232
+Texas Woman's University%8232
+The Art Institute of Dallas%8134
+The Art Institute of Houston%8023
+The College of Saint Thomas More%8150
+The Criswell College%8045
+The University of Texas At Austin%8444
+The University of Texas At Brownsville%8445
+The University of Texas Health Science Center at Houston%8449
+The University of Texas Health Science Center at San Antonio%8381
+The University of Texas Medical Branch%8382
+The University of Texas Southwestern Medical Center at Dallas%8385
+The University of Texas at Arlington%8374
+The University of Texas at Dallas%8124
+The University of Texas at El Paso%8446
+The University of Texas at San Antonio%8447
+The University of Texas at tyler%8448
+The University of Texas of the Permina Basin%8383
+The university of Texas-Pan American%8384
+Tomball College%8432
+Trinity University%8009
+Trinity Valley Community College%8364
+Tyler Junior College%8434
+University Technical Institute%8366
+University of Dallas%8234
+University of Houston%8011
+University of Houston-Cleat Lake%8436
+University of Houston-Downtown%8437
+University of Mary Hardin-Baylor%8438
+University of North Texas%8439
+University of Phoenix-Dallas/Ft. Worth Campus%8440
+University of Phoenix-Houston Campus%8441
+University of St. Thomas%8442
+University of the Incarnate Word%8013
+Vernon College%8386
+Victoria College%8456
+Wade College%8014
+Wayland Baptist University%8457
+Weatherford College%8458
+West Texas A&M University%8392
+Western Technical Institute%8390
+Western Texas College%8460
+Westwood College of Aviation Technology-Houston%8015
+Westwood Institute of Technology-Fort Worth%8240
+Wharton County Junior College%8462
+Wiley College%8463

@@ -1,0 +1,28 @@
+静岡大学%21313
+浜松大学%21321
+静岡産業大学%21312
+静岡福祉大学%21314
+常葉学園大学%21318
+浜松医科大学%21319
+浜松学院大学%21320
+静岡県立大学%21311
+富士常葉大学%21323
+静岡理工科大学%21316
+静岡文化芸術大学%21315
+静岡英和学院大学%21310
+光産業創成大学院大学%21322
+聖隷クリストファー大学%21317
+Fuji Tokoha University%21323
+Graduate School for the Creation of New Photonics Industries%21322
+Hamamatsu Gakuin University%21320
+Hamamatsu University School of Medicine%21319
+Seirei Christopher College%21317
+Shizuoka Eiwa Gakuin University%21310
+Shizuoka Institute of Science and Technology%21316
+Shizuoka Sangyo University%21312
+Shizuoka University%21313
+Shizuoka University of Art and Culture%21315
+Shizuoka University of Welfare%21314
+Tokoha Gakuen University%21318
+University of Hamamatsu%21321
+University of Shizuoka%21311
