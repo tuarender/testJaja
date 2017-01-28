@@ -49,7 +49,7 @@ public class SRIXServlet extends HttpServlet
 				"stepRegister","register","registerTracking","studentTracking","studentLogin","forgot","confirmOTP","resetPassword",
 				"resetPasswordComplete","confirmSendMail","listResume","privacy","term","password",
 				"forgotSelect","passwordUpdateSuccess","applyLogin","applyLoginNew","cancel","cancelJmSpecial","cancelNonMember","thank","test","campusList",
-				"applyLater","forgotNew" , "forgotSelectNew","registerIOS"
+				"applyLater","forgotNew","forgotPassword" , "forgotSelectNew","registerIOS"
 			};
 		int idEmp=Util.getInt(request.getParameter("idEmp"));
 		int idPosition=Util.getInt(request.getParameter("idPosition"));

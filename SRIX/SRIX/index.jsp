@@ -355,7 +355,7 @@
 						</div>
 						<div class="row" align="right">
 							<div class="col-lg-offset-3 col-lg-6 col-xs-11">
-								<label><u><a href="/SRIX?view=forgotNew" onClick="ga('send', 'event', { eventCategory: 'Engage-Homepage', eventAction: 'ClickOn', eventLabel: 'ลืมรหัสผ่าน'});"><fmt:message key="GLOBAL_FORGOT_PASSWORD"/></a></u></label>
+								<label><u><a href="/SRIX?view=forgotPassword" onClick="ga('send', 'event', { eventCategory: 'Engage-Homepage', eventAction: 'ClickOn', eventLabel: 'ลืมรหัสผ่าน'});"><fmt:message key="GLOBAL_FORGOT_PASSWORD"/></a></u></label>
 							</div>
 							<div class="col-lg-3 col-xs-1"></div>
 						</div>

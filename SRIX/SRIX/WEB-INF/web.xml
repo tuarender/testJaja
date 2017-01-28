@@ -316,6 +316,11 @@
 	</servlet>
 	
 	<servlet>
+		<servlet-name>ResetPasswordServ</servlet-name>
+		<servlet-class>javax.topgun.resume.ResetPasswordServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
 		<servlet-name>AppsUploadServ</servlet-name>
 		<servlet-class>javax.topgun.resume.AppsUploadServlet</servlet-class>
 	</servlet>
@@ -620,6 +625,11 @@
 	<servlet-mapping>
 		<servlet-name>ForgotPasswordNewServ</servlet-name>
 		<url-pattern>/ForgotPasswordNewServ</url-pattern>
+	</servlet-mapping>
+	
+		<servlet-mapping>
+		<servlet-name>ResetPasswordServ</servlet-name>
+		<url-pattern>/ResetPasswordServ</url-pattern>
 	</servlet-mapping>
 	
 	<servlet-mapping>
