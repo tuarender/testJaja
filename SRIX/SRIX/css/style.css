@@ -602,8 +602,17 @@ a.urlFillContent{
 	color:#58595b;
 }
 
-
 .seperator
 {
 	height:20px;
+}
+
+.requiredMark:before {
+	content: "*";
+	color: red;
+	display:inline;
+}
+
+.show{
+	display:block;
 }

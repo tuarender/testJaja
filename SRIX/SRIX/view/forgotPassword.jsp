@@ -17,12 +17,15 @@
 		<h3 align="center" class="section_header">
 			<fmt:message key="GLOBAL_FORGOT_PASSWORD" />
 		</h3>
-		<fmt:message key="FORGOT_PASSWORD_DETAIL"/>
+		<jsp:include page="common/errors.jsp" />
 		<div class="form-group">
-			<font style="color: red;">*</font><font class="caption"><fmt:message
+			<fmt:message key="FORGOT_PASSWORD_DETAIL"/>
+		</div>
+		<div class="form-group">
+			<font class="caption requiredMark"><fmt:message
 					key="GLOBAL_PHONE_TYPE_MOBILE_NUMBER" /></font> <input type="text"
-				class="form-control" id="mobile" name="mobile"
-				placeholder="Enter mobile phone">
+				class="form-control" id="searchIdentity" name="searchIdentity"
+				placeholder="<fmt:message key="FORGOT_PASSWORD_INPUT_PLACEHOLDER" />">
 		</div>
 		<div align="center">
 			<button type="submit" name="submit" id="submit"

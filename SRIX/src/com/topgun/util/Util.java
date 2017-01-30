@@ -8,7 +8,6 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
-import java.util.List;
 import java.util.Locale;
 import java.util.regex.Pattern;
 
@@ -16,10 +15,10 @@ import javax.mail.internet.AddressException;
 import javax.mail.internet.InternetAddress;
 
 import org.apache.commons.codec.binary.Base64;
+import org.apache.commons.lang.StringUtils;
 
 import com.topgun.resume.Attachment;
 import com.topgun.resume.AttachmentManager;
-import com.topgun.resume.Location;
 
 public class Util
 {
@@ -360,20 +359,26 @@ public class Util
 		return result;
 	}
 	
-	public static boolean isEmail(String email)
-	{
-		boolean result = true;
-		try
-		{
-			InternetAddress addr = new InternetAddress(email);
-			addr.validate();
-		}
-		catch(AddressException ex) 
-		{
-		      result = false;
-		}
-		return result;
+    public static boolean isEmail(String email) {
+	boolean result = true;
+	try {
+	    InternetAddress addr = new InternetAddress(email);
+	    addr.validate();
+	} catch (AddressException ex) {
+	    result = false;
 	}
+	return result;
+    }
+	
+    /**
+     * Is phone number contains only numeric and length more than or equals 1จ
+     * 
+     * @param phoneNumber
+     * @return
+     */
+    public static boolean isPhoneNumber(String phoneNumber) {
+	return StringUtils.isNumeric(phoneNumber) && phoneNumber.length() >= 10;
+    }
 	
     public static boolean IntToBoolean(int value)
     {

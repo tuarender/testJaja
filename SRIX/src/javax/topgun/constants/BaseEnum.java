@@ -1,4 +1,4 @@
-package javax.topgun.common;
+package javax.topgun.constants;
 
 import java.util.HashSet;
 

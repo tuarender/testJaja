@@ -1,11 +1,10 @@
-package javax.topgun.common.action;
+package javax.topgun.constants.action;
 
 import java.util.HashSet;
 
-import javax.topgun.common.BaseEnum;
+import javax.topgun.constants.BaseEnum;
 
 public enum ResetPasswordServEnum implements BaseEnum {
-
     retrieveUser, selectUser;
 
     /**
@@ -13,6 +12,7 @@ public enum ResetPasswordServEnum implements BaseEnum {
      * 
      * @return
      */
+    @Override
     public HashSet<String> getEnums() {
 	HashSet<String> values = new HashSet<String>();
 
